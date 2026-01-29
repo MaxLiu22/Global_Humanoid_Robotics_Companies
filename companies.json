@@ -1,562 +1,611 @@
 {
     "Noetix Robotics": {
         "english_name": "Noetix Robotics",
-        "chinese_name": "松延动力",
+        "native_name": "松延动力",
         "city": "Beijing",
         "official_website": "https://en.noetixrobotics.com/",
         "career_page": "https://en.noetixrobotics.com/join.html"
     },
     "Booster Robotics": {
         "english_name": "Booster Robotics",
-        "chinese_name": "加速进化",
+        "native_name": "加速进化",
         "city": "Beijing",
         "official_website": "https://www.booster.tech/",
         "career_page": "https://www.zhipin.com/gongsi/e31a2aa77f0ce7f41HR-2di1FFY~.html"
     },
     "Xiaomi": {
         "english_name": "Xiaomi",
-        "chinese_name": "小米",
+        "native_name": "小米",
         "city": "Beijing",
         "official_website": "https://www.mi.com/cyberone",
         "career_page": "https://hr.xiaomi.com/"
     },
     "RobotEra": {
         "english_name": "RobotEra",
-        "chinese_name": "星动纪元",
+        "native_name": "星动纪元",
         "city": "Beijing",
         "official_website": "https://www.robotera.com/en/",
         "career_page": "https://www.robotera.com/join.html"
     },
     "CASBOT": {
         "english_name": "CASBOT",
-        "chinese_name": "灵宝",
+        "native_name": "灵宝",
         "city": "Beijing",
         "official_website": "https://casbot.tech/",
         "career_page": "https://www.zhipin.com/gongsi/6af49446246079391HV82tS8E1E~.html?ka=company-intro"
     },
     "Beijing Innovation Center of Humanoid Robotics": {
         "english_name": "Beijing Innovation Center of Humanoid Robotics",
-        "chinese_name": "北京人形机器人创新中心",
+        "native_name": "北京人形机器人创新中心",
         "city": "Beijing",
         "official_website": "https://www.x-humanoid.com/",
         "career_page": "https://zitd5je6f7j.jobs.feishu.cn/referral/position?token=MzsxNzUzODU2MjYwNDI4OzczNDI0MDAyNjkzMjAwMjgxNjI7MDsx"
     },
     "Yue Quan Bionics": {
         "english_name": "Yue Quan Bionics",
-        "chinese_name": "月泉仿生",
+        "native_name": "月泉仿生",
         "city": "Beijing",
         "official_website": "https://yqbionics.com/sy",
         "career_page": "https://yqbionics.com/jrwm"
     },
     "HARIBIT": {
         "english_name": "HARIBIT",
-        "chinese_name": "理工华汇",
+        "native_name": "理工华汇",
         "city": "Beijing",
         "official_website": "https://www.haribit.com/",
         "career_page": "https://www.haribit.com/index.php?c=join&catid=18"
     },
     "Dexteleop Intelligence": {
         "english_name": "Dexteleop Intelligence",
-        "chinese_name": "灵御智能",
+        "native_name": "灵御智能",
         "city": "Beijing",
         "official_website": "https://www.dexteleop.com/",
         "career_page": "https://jcnpqmhgptfj.jobs.feishu.cn/index/m/?spread=JX28QFC"
     },
     "Corenetic": {
         "english_name": "Corenetic",
-        "chinese_name": "源络科技",
+        "native_name": "源络科技",
         "city": "Beijing",
         "official_website": "https://www.corenetic.ai/",
         "career_page": "https://www.corenetic.ai/join-us"
     },
     "Galbot": {
         "english_name": "Galbot",
-        "chinese_name": "银河通用",
+        "native_name": "银河通用",
         "city": "Beijing",
         "official_website": "https://www.galbot.com/",
         "career_page": "https://www.galbot.com/careers"
     },
     "Galaxea AI": {
         "english_name": "Galaxea AI",
-        "chinese_name": "星海图",
+        "native_name": "星海图",
         "city": "Beijing",
         "official_website": "https://galaxea-ai.com/",
         "career_page": "https://www.zhipin.com/gongsi/job/ac5406ec27e40a191HR_2Ni_GFM~.html?ka=company-jobs"
     },
     "Realman Robotics": {
         "english_name": "Realman Robotics",
-        "chinese_name": "睿尔曼",
+        "native_name": "睿尔曼",
         "city": "Beijing",
         "official_website": "https://www.realman-robotics.com/",
         "career_page": "https://app.mokahr.com/social-recruitment/realman/149934#/jobs?zhineng%5B0%5D=187671&commitment%5B0%5D=%E5%85%A8%E8%81%8C&page=1&anchorName=jobsList"
     },
     "GENISOM AI": {
         "english_name": "GENISOM AI",
-        "chinese_name": "智身科技",
+        "native_name": "智身科技",
         "city": "Beijing",
         "official_website": "https://zsibot.com/home",
         "career_page": "https://www.zhipin.com/gongsi/574244613dd1020803V529y9FFI~.html"
     },
     "Phybot": {
         "english_name": "Phybot",
-        "chinese_name": "动易科技",
+        "native_name": "动易科技",
         "city": "Beijing",
         "official_website": "https://www.phybot.tech/en/home",
         "career_page": "https://www.phybot.tech/join-us"
     },
     "Vizum": {
         "english_name": "Vizum",
-        "chinese_name": "伟景智能",
+        "native_name": "伟景智能",
         "city": "Beijing",
         "official_website": "http://www.vizumtech.com/",
         "career_page": "http://www.vizumtech.com/recruit.html"
     },
     "AgiBot": {
         "english_name": "AgiBot",
-        "chinese_name": "智元机器人",
+        "native_name": "智元机器人",
         "city": "Shanghai",
         "official_website": "www.agibot.com",
         "career_page": "www.zhiyuan-robot.com/join_us"
     },
     "Fourier": {
         "english_name": "Fourier",
-        "chinese_name": "傅利叶智能",
+        "native_name": "傅利叶智能",
         "city": "Shanghai",
         "official_website": "www.fftai.com",
         "career_page": "www.fftai.com/career"
     },
     "Ti5Robot": {
         "english_name": "Ti5Robot",
-        "chinese_name": "钛虎机器人",
+        "native_name": "钛虎机器人",
         "city": "Shanghai",
         "official_website": "www.ti5robot.com/en/",
         "career_page": "www.zhipin.com/gongsi/30a7ce5d333806501nd63966ElA~.html"
     },
     "Keepler": {
         "english_name": "Keepler",
-        "chinese_name": "开普勒机器人",
+        "native_name": "开普勒机器人",
         "city": "Shanghai",
         "official_website": "gotokepler.com/home",
         "career_page": "www.zhipin.com/gongsi/job/df65785ecc0b2c9003R629W4FVQ~.html"
     },
     "Matrix Robotics": {
         "english_name": "Matrix Robotics",
-        "chinese_name": "矩阵超智",
+        "native_name": "矩阵超智",
         "city": "Shanghai",
         "official_website": "www.matrixrobotics.ai",
         "career_page": "www.matrixrobotics.ai/zh-cn/careers"
     },
     "Whalesbot": {
         "english_name": "Whalesbot",
-        "chinese_name": "鲸鱼机器人",
+        "native_name": "鲸鱼机器人",
         "city": "Shanghai",
         "official_website": "www.whalesbot.ai",
         "career_page": "www.zhipin.com/gongsi/3710d6fe78f01de933xy09W7Eg~~.html"
     },
     "DroidUp": {
         "english_name": "DroidUp",
-        "chinese_name": "卓益得机器人",
+        "native_name": "卓益得机器人",
         "city": "Shanghai",
         "official_website": "www.droidup.com",
         "career_page": "www.droidup.com/jiaruwomen"
     },
     "Robbyant": {
         "english_name": "Robbyant",
-        "chinese_name": "灵波科技",
+        "native_name": "灵波科技",
         "city": "Shanghai",
         "official_website": "www.robbyant.com",
         "career_page": "www.zhipin.com/companys/0bd91afb33a787d103N90924EFA~.html"
     },
     "Cyan": {
         "english_name": "Cyan",
-        "chinese_name": "青心意创",
+        "native_name": "青心意创",
         "city": "Shanghai",
         "official_website": "www.cyanborg.com",
         "career_page": "www.cyanborg.com/jrwm"
     },
     "iSAGEBOT": {
         "english_name": "iSAGEBOT",
-        "chinese_name": "飒智智能",
+        "native_name": "飒智智能",
         "city": "Shanghai",
         "official_website": "en.sage-modi.com/index.aspx",
         "career_page": "www.liepin.com/company/12148735/"
     },
     "Humanoid Robot": {
         "english_name": "Humanoid Robot",
-        "chinese_name": "人形机器人（上海）",
+        "native_name": "人形机器人（上海）",
         "city": "Shanghai",
         "official_website": "www.openloong.net",
         "career_page": "www.openloong.net/col.jsp?id=114"
     },
     "QingBao": {
         "english_name": "QingBao",
-        "chinese_name": "清宝引擎机器人",
+        "native_name": "清宝引擎机器人",
         "city": "Shanghai",
         "official_website": "www.qingyun-robot.com/zh/home",
         "career_page": "www.liepin.com/company-jobs/13056561/"
     },
     "RuShen": {
         "english_name": "RuShen",
-        "chinese_name": "如身机器人",
+        "native_name": "如身机器人",
         "city": "Shanghai",
         "official_website": "www.robot-gym.com/robot",
         "career_page": "www.zhipin.com/gongsi/ca196d83261c2d141X1-29W1FFM~.html"
     },
     "Unitree": {
         "english_name": "Unitree",
-        "chinese_name": "宇树科技",
+        "native_name": "宇树科技",
         "city": "Hangzhou",
         "official_website": "www.unitree.com",
         "career_page": "www.unitree.com/position"
     },
     "DeepRobotics": {
         "english_name": "DeepRobotics",
-        "chinese_name": "云深处科技",
+        "native_name": "云深处科技",
         "city": "Hangzhou",
         "official_website": "www.deeprobotics.cn/en",
         "career_page": "www.zhipin.com/gongsi/38f3fae3410a70991nd509i8Fw~~.html"
     },
     "Spirit AI": {
         "english_name": "Spirit AI",
-        "chinese_name": "千寻智能",
+        "native_name": "千寻智能",
         "city": "Hangzhou",
         "official_website": "www.spirit-ai.com/en/",
         "career_page": "www.spirit-ai.com/en/career"
     },
     "Zhicheng AI": {
         "english_name": "Zhicheng AI",
-        "chinese_name": "智澄AI",
+        "native_name": "智澄AI",
         "city": "Hangzhou",
         "official_website": "www.zhicheng-robot.com",
         "career_page": "www.zhipin.com/gongsi/aa7863fb9480bfbb1Hdy0ti9ElA~.html"
     },
     "LANXIN Robotics": {
         "english_name": "LANXIN Robotics",
-        "chinese_name": "蓝芯机器人",
+        "native_name": "蓝芯机器人",
         "city": "Hangzhou",
         "official_website": "www.lanxincn.com",
         "career_page": "lanxincn.zhiye.com"
     },
     "ELU.AI": {
         "english_name": "ELU.AI",
-        "chinese_name": "原力无限",
+        "native_name": "原力无限",
         "city": "Hangzhou",
         "official_website": "elu-ai.com",
         "career_page": "www.zhipin.com/gongsi/3cec6cd7eb91b05703Ry0tm5F1I~.html"
     },
     "TLIBOT": {
         "english_name": "TLIBOT",
-        "chinese_name": "天链机器人",
+        "native_name": "天链机器人",
         "city": "Mianyang",
         "official_website": "www.tlibot.com",
         "career_page": "www.tlibot.com/about_us.html#c_static_001-17237877146690"
     },
     "Magic Lab": {
         "english_name": "Magic Lab",
-        "chinese_name": "魔法原子",
+        "native_name": "魔法原子",
         "city": "Wuxi",
         "official_website": "www.magiclab.top/en",
         "career_page": "magiclab.zhiye.com/social"
     },
     "TIAN QING": {
         "english_name": "TIAN QING",
-        "chinese_name": "软通天擎",
+        "native_name": "软通天擎",
         "city": "Hangzhou",
         "official_website": "www.tqartisan.com",
         "career_page": "www.zhipin.com/gongsi/0422e7b23dc72bbe03By0tS5ElM~.html"
     },
     "UniX AI": {
         "english_name": "UniX AI",
-        "chinese_name": "优理奇",
+        "native_name": "优理奇",
         "city": "Suzhou",
         "official_website": "www.unix-group.ai",
         "career_page": "www.unix-group.ai/join/199.html"
     },
     "EIR": {
         "english_name": "EIR",
-        "chinese_name": "具身科技",
+        "native_name": "具身科技",
         "city": "Chengdu",
         "official_website": "www.eir.com.cn/#/",
         "career_page": "www.eir.com.cn/#/about?section=talent"
     },
     "Estun Codroid": {
         "english_name": "Estun Codroid",
-        "chinese_name": "埃斯顿酷卓",
+        "native_name": "埃斯顿酷卓",
         "city": "Nanjing",
         "official_website": "www.codroid.ai/en/",
         "career_page": "www.zhipin.com/gongsi/job/dac7905d695149501HZ73Nu8EFE~.html"
     },
     "ZERITH": {
         "english_name": "ZERITH",
-        "chinese_name": "零次方机器人",
+        "native_name": "零次方机器人",
         "city": "Hefei",
         "official_website": "www.zerith.com",
         "career_page": "www.zerith.com/join"
     },
     "ZJ-Humanoid": {
         "english_name": "ZJ-Humanoid",
-        "chinese_name": "浙江人形机器人创新中心",
+        "native_name": "浙江人形机器人创新中心",
         "city": "Ningbo",
         "official_website": "www.zj-humanoid.com",
         "career_page": "www.zj-humanoid.com/join/#xmd"
     },
     "AtomRobot": {
         "english_name": "AtomRobot",
-        "chinese_name": "阿童木机器人",
+        "native_name": "阿童木机器人",
         "city": "Tianjing",
         "official_website": "www.atomrobot.ai",
         "career_page": "www.atomrobot.com/Recruiting"
     },
     "Rokae": {
         "english_name": "Rokae",
-        "chinese_name": "珞石机器人",
+        "native_name": "珞石机器人",
         "city": "Jining",
         "official_website": "www.rokae.com/en/?u=aHR0cDovL3d3dy5yb2thZS5jb20vY24v",
         "career_page": "www.rokae.com/cn/about/107/Careers.html"
     },
     "GLRoad": {
         "english_name": "GLRoad",
-        "chinese_name": "格蓝若机器人",
+        "native_name": "格蓝若机器人",
         "city": "Wuhan",
         "official_website": "www.glroad.com/HumanoidRobots/index.aspx",
         "career_page": "www.glroad.com/JoinUs/index.aspx"
     },
     "HEC": {
         "english_name": "HEC",
-        "chinese_name": "光谷东智",
+        "native_name": "光谷东智",
         "city": "Wuhan",
         "official_website": "www.hec-al.com",
         "career_page": "hec.zhiye.com"
     },
     "PNDBotics": {
         "english_name": "PNDBotics",
-        "chinese_name": "柏奥尼克机器人",
+        "native_name": "柏奥尼克机器人",
         "city": "Ningbo",
         "official_website": "pndbotics.com",
         "career_page": "www.zhipin.com/gongsi/a9f8ff5721f79c7a03V63dS7FlI~.html"
     },
     "CHAONENG ROBOT": {
         "english_name": "CHAONENG ROBOT",
-        "chinese_name": "超能机器人",
+        "native_name": "超能机器人",
         "city": "Changsha",
         "official_website": "www.hncnbot.com",
         "career_page": "www.zhipin.com/gongsi/3d168f69d3eb5f151nN43t66Eg~~.html"
     },
     "YMBot": {
         "english_name": "YMBot",
-        "chinese_name": "云幕智造",
+        "native_name": "云幕智造",
         "city": "Suzhou",
         "official_website": "www.ymbot.com/home",
         "career_page": "m.zhipin.com/companys/0ad0d9f955364aa503d83tS7GVc~.html"
     },
     "YoBotics": {
         "english_name": "YoBotics",
-        "chinese_name": "优宝特机器人",
+        "native_name": "优宝特机器人",
         "city": "Jinan",
         "official_website": "www.yobotics.cn/en/",
         "career_page": "www.yobotics.cn/about/zxns/"
     },
     "Midea": {
         "english_name": "Midea",
-        "chinese_name": "美的",
+        "native_name": "美的",
         "city": "Foshan",
         "official_website": "www.midea.com.cn/en",
         "career_page": "www.midea.com.cn/en/careers"
     },
     "GAC Group": {
         "english_name": "GAC Group",
-        "chinese_name": "广汽集团",
+        "native_name": "广汽集团",
         "city": "Guangzhou",
         "official_website": "www.gacgroup.com/en",
         "career_page": "career.gac-international.com/apply/gac-international/100006013/"
     },
     "High Torque": {
         "english_name": "High Torque",
-        "chinese_name": "高擎机电",
+        "native_name": "高擎机电",
         "city": "Guangzhou",
         "official_website": "www.hightorquerobotics.com",
         "career_page": "www.hightorque.cn/category/jobs"
     },
     "Li-Gong": {
         "english_name": "Li-Gong",
-        "chinese_name": "里工实业",
+        "native_name": "里工实业",
         "city": "Guangzhou",
         "official_website": "li-gong.com",
         "career_page": "m.zhipin.com/companys/32b0338623524aa21Xx53do~.html"
     },
     "Chery": {
         "english_name": "Chery",
-        "chinese_name": "奇瑞汽车",
+        "native_name": "奇瑞汽车",
         "city": "Wuhu",
         "official_website": "www.cheryinternational.com",
         "career_page": "chery.zhiye.com"
     },
     "HFUN-TECH": {
         "english_name": "HFUN-TECH",
-        "chinese_name": "有怡科技",
+        "native_name": "有怡科技",
         "city": "Jinhua",
         "official_website": "www.hfun-tech.com",
         "career_page": "www.hfun-tech.com/col.jsp?id=102"
     },
     "YIJIAHE": {
         "english_name": "YIJIAHE",
-        "chinese_name": "亿嘉和集团",
+        "native_name": "亿嘉和集团",
         "city": "Nanjing",
         "official_website": "en.yijiahe.com",
         "career_page": "en.yijiahe.com/jobs"
     },
     "EXRobots": {
         "english_name": "EXRobots",
-        "chinese_name": "蒂艾斯科技",
+        "native_name": "蒂艾斯科技",
         "city": "Dalian",
         "official_website": "www.exrobots.net",
         "career_page": "www.exrobots.net/?page_id=4253"
     },
     "UBTECH": {
         "english_name": "UBTECH",
-        "chinese_name": "优必选机器人",
+        "native_name": "优必选机器人",
         "city": "Shenzhen",
         "official_website": "www.ubtrobot.com/en/",
         "career_page": "www.zhipin.com/companys/faf4dcd4bbcfac351nJ92tW6EVY~.html"
     },
     "LIMX Dynamics": {
         "english_name": "LIMX Dynamics",
-        "chinese_name": "逐际动力",
+        "native_name": "逐际动力",
         "city": "Shenzhen",
         "official_website": "limxdynamics.com/en",
         "career_page": "limxdynamics.com/en/about#careers"
     },
     "LEJU Robot": {
         "english_name": "LEJU Robot",
-        "chinese_name": "乐聚机器人",
+        "native_name": "乐聚机器人",
         "city": "Shenzhen",
         "official_website": "www.lejurobot.cn/en",
         "career_page": "www.zhipin.com/gongsi/2c25c62189532e1b0XZ62926.html"
     },
     "EngineAI": {
         "english_name": "EngineAI",
-        "chinese_name": "众擎机器人",
+        "native_name": "众擎机器人",
         "city": "Shenzhen",
         "official_website": "en.engineai.com.cn",
         "career_page": "en.engineai.com.cn/career.html"
     },
     "Pudu Tech": {
         "english_name": "Pudu Tech",
-        "chinese_name": "普渡科技",
+        "native_name": "普渡科技",
         "city": "Shenzhen",
         "official_website": "www.pudurobotics.com/en",
         "career_page": "pudutech.zhiye.com"
     },
     "Digit": {
         "english_name": "Digit",
-        "chinese_name": "数字华夏",
+        "native_name": "数字华夏",
         "city": "Shenzhen",
         "official_website": "digit.com.cn/Default.html",
         "career_page": "digit.com.cn/Join.html"
     },
     "Lumos Robotics": {
         "english_name": "Lumos Robotics",
-        "chinese_name": "鹿明机器人",
+        "native_name": "鹿明机器人",
         "city": "Shenzhen",
         "official_website": "www.lumosbot.tech/index.html",
         "career_page": "www.lumosbot.tech/career.html"
     },
     "AI2Robotics": {
         "english_name": "AI2Robotics",
-        "chinese_name": "智平方",
+        "native_name": "智平方",
         "city": "Shenzhen",
         "official_website": "ai2robotics.com/en/",
         "career_page": "ai2robotics.com/en/joinus/"
     },
     "Dexforce": {
         "english_name": "Dexforce",
-        "chinese_name": "跨维智能",
+        "native_name": "跨维智能",
         "city": "Shenzhen",
         "official_website": "www.dexforce.com",
         "career_page": "www.zhipin.com/gongsi/a29d4dc56c588cfa1XR52tu8E1U~.html"
     },
     "DOBOT": {
         "english_name": "DOBOT",
-        "chinese_name": "越疆机器人",
+        "native_name": "越疆机器人",
         "city": "Shenzhen",
         "official_website": "www.dobot.cn",
         "career_page": "dobot.zhiye.com"
     },
     "Astribot": {
         "english_name": "Astribot",
-        "chinese_name": "星尘智能",
+        "native_name": "星尘智能",
         "city": "Shenzhen",
         "official_website": "www.astribot.com/en",
         "career_page": "www.astribot.com/en/careers"
     },
     "Cyborg": {
         "english_name": "Cyborg",
-        "chinese_name": "赛博格",
+        "native_name": "赛博格",
         "city": "Shenzhen",
         "official_website": "www.cyb-org.cn",
         "career_page": "www.cyb-org.cn/index.php?id=contact#l1"
     },
     "XPENG": {
         "english_name": "XPENG",
-        "chinese_name": "小鹏机器人",
+        "native_name": "小鹏机器人",
         "city": "Shenzhen",
         "official_website": "www.xpeng.com/?fromNav=1",
         "career_page": "xiaopeng.jobs.feishu.cn/index"
     },
     "Daimon Robotics": {
         "english_name": "Daimon Robotics",
-        "chinese_name": "戴盟机器人",
+        "native_name": "戴盟机器人",
         "city": "Shenzhen",
         "official_website": "www.dmrobot.com/en/",
         "career_page": "app.mokahr.com/social-recruitment/daimon-robotics/148582?locale=zh-CN#/jobs"
     },
     "Paxini": {
         "english_name": "Paxini",
-        "chinese_name": "帕西尼感知",
+        "native_name": "帕西尼感知",
         "city": "Shenzhen",
         "official_website": "paxini.com",
         "career_page": "paxini.com/recruit"
     },
     "RoboSense": {
         "english_name": "RoboSense",
-        "chinese_name": "速腾聚创",
+        "native_name": "速腾聚创",
         "city": "Shenzhen",
         "official_website": "www.robosense.ai/en/index/index",
         "career_page": "app.mokahr.com/campus-recruitment/robosense/69887#/"
     },
     "OneRobotics": {
         "english_name": "OneRobotics",
-        "chinese_name": "卧安机器人",
+        "native_name": "卧安机器人",
         "city": "Shenzhen",
         "official_website": "www.onero.cn",
         "career_page": "www.zhipin.com/gongsi/857e8f4db1f987811Hxy0ty_FA~~.html"
     },
     "Tencent Robotics X": {
         "english_name": "Tencent Robotics X",
-        "chinese_name": "腾讯机器人",
+        "native_name": "腾讯机器人",
         "city": "Shenzhen",
         "official_website": "roboticsx.tencent.com/#/",
         "career_page": "careers.tencent.com/en-us/home.html"
     },
     "X Square Robot": {
         "english_name": "X Square Robot",
-        "chinese_name": "自变量机器人",
+        "native_name": "自变量机器人",
         "city": "Shenzhen",
         "official_website": "www.x2robot.com/en",
         "career_page": "www.x2robot.com/en/join"
     },
     "PsiBot": {
         "english_name": "PsiBot",
-        "chinese_name": "灵初智能",
+        "native_name": "灵初智能",
         "city": "Beijing",
         "official_website": "www.psibot.ai/en/home/",
         "career_page": "www.psibot.ai/en/careers/"
     },
     "PL-Universe": {
         "english_name": "PL-Universe",
-        "chinese_name": "普罗宇宙",
+        "native_name": "普罗宇宙",
         "city": "Suzhou",
         "official_website": "en.pl-universe.com",
         "career_page": "pl-universe.com/about/10#aboutFour"
+    },
+    "Rainbow Robotics": {
+        "english_name": "Rainbow Robotics",
+        "native_name": "레인보우로보틱스",
+        "city": "Daejeon",
+        "official_website": "https://www.rainbow-robotics.com/",
+        "career_page": "https://www.rainbow-robotics.com/en_recruit"
+    },
+    "Holiday Robotics": {
+        "english_name": "Holiday Robotics",
+        "native_name": "홀리데이로보틱스",
+        "city": "Seoul",
+        "official_website": "https://holiday-robotics.com/",
+        "career_page": "https://holiday-robotics.com/contact"
+    },
+    "Robros": {
+        "english_name": "Robros",
+        "native_name": "로브로스",
+        "city": "Seoul",
+        "official_website": "https://robros.co.kr/",
+        "career_page": "https://robros.co.kr/Career"
+    },
+    "AeiROBOT": {
+        "english_name": "AeiROBOT",
+        "native_name": "에이로봇",
+        "city": "Seongnam",
+        "official_website": "https://eng.arobot4all.com/",
+        "career_page": "https://eng.arobot4all.com/"
+    },
+    "Blue Robin": {
+        "english_name": "Blue Robin",
+        "native_name": "블루로빈",
+        "city": "Seoul",
+        "official_website": "https://www.bluerobin.co.kr/",
+        "career_page": "https://www.bluerobin.co.kr/EN/include/pages/careers.php"
+    },
+    "Robotis": {
+        "english_name": "Robotis",
+        "native_name": "로보티즈",
+        "city": "Seoul",
+        "official_website": "https://ai.robotis.com/",
+        "career_page": "www.robotis.com/sub/about_contact.php"
+    },
+    "LG Electronics": {
+        "english_name": "LG Electronics",
+        "native_name": "LG전자",
+        "city": "Seoul",
+        "official_website": "https://www.lg.com/",
+        "career_page": "https://recruit.lg.com/"
     }
 }

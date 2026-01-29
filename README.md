@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/Humanoid%20Robotics%20Companies-80-blue.svg)](#companies) [![](https://img.shields.io/badge/Cities-21-green.svg)](#companies) [![](https://img.shields.io/badge/Data-JSON-orange.svg)](companies.json) [![](https://img.shields.io/badge/Docs-Markdown-lightgrey.svg)](README.md) [![](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![](https://img.shields.io/badge/Humanoid%20Robotics%20Companies-87-blue.svg)](#companies) [![](https://img.shields.io/badge/Cities-24-green.svg)](#companies) [![](https://img.shields.io/badge/Data-JSON-orange.svg)](companies.json) [![](https://img.shields.io/badge/Docs-Markdown-lightgrey.svg)](README.md) [![](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 # Humanoid Robotics Companies (⚡ actively updated)
 
@@ -9,10 +9,12 @@ A public list of companies that develop humanoid robotics. Ordered alphabeticall
 | Company Name | Native Name | City | Official Website | Career Page |
 |--------------|-------------|------|------------------|-------------|
 | AI2Robotics | 智平方 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://ai2robotics.com/en/) | [Careers](https://ai2robotics.com/en/joinus/) |
+| AeiROBOT | 에이로봇 | [Seongnam](https://en.wikipedia.org/wiki/Seongnam) | [Website](https://eng.arobot4all.com/) | [Careers](https://eng.arobot4all.com/) |
 | AgiBot | 智元机器人 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.agibot.com) | [Careers](https://www.zhiyuan-robot.com/join_us) |
 | Astribot | 星尘智能 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://www.astribot.com/en) | [Careers](https://www.astribot.com/en/careers) |
 | AtomRobot | 阿童木机器人 | [Tianjin](https://en.wikipedia.org/wiki/Tianjin) | [Website](https://www.atomrobot.ai) | [Careers](https://www.atomrobot.com/Recruiting) |
 | Beijing Innovation Center of Humanoid Robotics | 北京人形机器人创新中心 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://www.x-humanoid.com/) | [Careers](https://zitd5je6f7j.jobs.feishu.cn/referral/position?token=MzsxNzUzODU2MjYwNDI4OzczNDI0MDAyNjkzMjAwMjgxNjI7MDsx) |
+| Blue Robin | 블루로빈 | [Seoul](https://en.wikipedia.org/wiki/Seoul) | [Website](https://www.bluerobin.co.kr/) | [Careers](https://www.bluerobin.co.kr/EN/include/pages/careers.php) |
 | Booster Robotics | 加速进化 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://www.booster.tech/) | [Careers](https://www.zhipin.com/gongsi/e31a2aa77f0ce7f41HR-2di1FFY~.html) |
 | CASBOT | 灵宝 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://casbot.tech/) | [Careers](https://www.zhipin.com/gongsi/6af49446246079391HV82tS8E1E~.html?ka=company-intro) |
 | CHAONENG ROBOT | 超能机器人 | [Changsha](https://en.wikipedia.org/wiki/Changsha) | [Website](https://www.hncnbot.com) | [Careers](https://www.zhipin.com/gongsi/3d168f69d3eb5f151nN43t66Eg~~.html) |
@@ -42,10 +44,12 @@ A public list of companies that develop humanoid robotics. Ordered alphabeticall
 | HEC | 光谷东智 | [Wuhan](https://en.wikipedia.org/wiki/Wuhan) | [Website](https://www.hec-al.com) | [Careers](https://hec.zhiye.com) |
 | HFUN-TECH | 有怡科技 | [Jinhua](https://en.wikipedia.org/wiki/Jinhua) | [Website](https://www.hfun-tech.com) | [Careers](https://www.hfun-tech.com/col.jsp?id=102) |
 | High Torque | 高擎机电 | [Guangzhou](https://en.wikipedia.org/wiki/Guangzhou) | [Website](https://www.hightorquerobotics.com) | [Careers](https://www.hightorque.cn/category/jobs) |
+| Holiday Robotics | 홀리데이로보틱스 | [Seoul](https://en.wikipedia.org/wiki/Seoul) | [Website](https://holiday-robotics.com/) | [Careers](https://holiday-robotics.com/contact) |
 | Humanoid Robot | 人形机器人（上海） | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.openloong.net) | [Careers](https://www.openloong.net/col.jsp?id=114) |
 | Keepler | 开普勒机器人 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://gotokepler.com/home) | [Careers](https://www.zhipin.com/gongsi/job/df65785ecc0b2c9003R629W4FVQ~.html) |
 | LANXIN Robotics | 蓝芯机器人 | [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou) | [Website](https://www.lanxincn.com) | [Careers](https://lanxincn.zhiye.com) |
 | LEJU Robot | 乐聚机器人 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://www.lejurobot.cn/en) | [Careers](https://www.zhipin.com/gongsi/2c25c62189532e1b0XZ62926.html) |
+| LG Electronics | LG전자 | [Seoul](https://en.wikipedia.org/wiki/Seoul) | [Website](https://www.lg.com/) | [Careers](https://recruit.lg.com/) |
 | LIMX Dynamics | 逐际动力 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://limxdynamics.com/en) | [Careers](https://limxdynamics.com/en/about#careers) |
 | Li-Gong | 里工实业 | [Guangzhou](https://en.wikipedia.org/wiki/Guangzhou) | [Website](https://li-gong.com) | [Careers](https://m.zhipin.com/companys/32b0338623524aa21Xx53do~.html) |
 | Lumos Robotics | 鹿明机器人 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://www.lumosbot.tech/index.html) | [Careers](https://www.lumosbot.tech/career.html) |
@@ -61,10 +65,13 @@ A public list of companies that develop humanoid robotics. Ordered alphabeticall
 | PsiBot | 灵初智能 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://www.psibot.ai/en/home/) | [Careers](https://www.psibot.ai/en/careers/) |
 | Pudu Tech | 普渡科技 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://www.pudurobotics.com/en) | [Careers](https://pudutech.zhiye.com) |
 | QingBao | 清宝引擎机器人 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.qingyun-robot.com/zh/home) | [Careers](https://www.liepin.com/company-jobs/13056561/) |
+| Rainbow Robotics | 레인보우로보틱스 | [Daejeon](https://en.wikipedia.org/wiki/Daejeon) | [Website](https://www.rainbow-robotics.com/) | [Careers](https://www.rainbow-robotics.com/en_recruit) |
 | Realman Robotics | 睿尔曼 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://www.realman-robotics.com/) | [Careers](https://app.mokahr.com/social-recruitment/realman/149934#/jobs?zhineng%5B0%5D=187671&commitment%5B0%5D=%E5%85%A8%E8%81%8C&page=1&anchorName=jobsList) |
 | Robbyant | 灵波科技 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.robbyant.com) | [Careers](https://www.zhipin.com/companys/0bd91afb33a787d103N90924EFA~.html) |
+| Robros | 로브로스 | [Seoul](https://en.wikipedia.org/wiki/Seoul) | [Website](https://robros.co.kr/) | [Careers](https://robros.co.kr/Career) |
 | RoboSense | 速腾聚创 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://www.robosense.ai/en/index/index) | [Careers](https://app.mokahr.com/campus-recruitment/robosense/69887#/) |
 | RobotEra | 星动纪元 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://www.robotera.com/en/) | [Careers](https://www.robotera.com/join.html) |
+| Robotis | 로보티즈 | [Seoul](https://en.wikipedia.org/wiki/Seoul) | [Website](https://ai.robotis.com/) | [Careers](https://www.robotis.com/sub/about_contact.php) |
 | Rokae | 珞石机器人 | [Jining](https://en.wikipedia.org/wiki/Jining) | [Website](https://www.rokae.com/en/?u=aHR0cDovL3d3dy5yb2thZS5jb20vY24v) | [Careers](https://www.rokae.com/cn/about/107/Careers.html) |
 | RuShen | 如身机器人 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.robot-gym.com/robot) | [Careers](https://www.zhipin.com/gongsi/ca196d83261c2d141X1-29W1FFM~.html) |
 | Spirit AI | 千寻智能 | [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou) | [Website](https://www.spirit-ai.com/en/) | [Careers](https://www.spirit-ai.com/en/career) |
@@ -114,8 +121,8 @@ Thank you for helping make this resource better! 🙏
 
 ## Statistics
 
-- **Total Companies**: 80
-- **Cities**: 21
+- **Total Companies**: 87
+- **Cities**: 24
 
 ### Companies by City
 
@@ -123,6 +130,7 @@ Thank you for helping make this resource better! 🙏
 - **Beijing**: 17
 - **Shanghai**: 13
 - **Hangzhou**: 7
+- **Seoul**: 6
 - **Guangzhou**: 3
 - **Suzhou**: 3
 - **Nanjing**: 2
@@ -130,6 +138,7 @@ Thank you for helping make this resource better! 🙏
 - **Wuhan**: 2
 - **Changsha**: 1
 - **Chengdu**: 1
+- **Daejeon**: 1
 - **Dalian**: 1
 - **Foshan**: 1
 - **Hefei**: 1
@@ -137,6 +146,7 @@ Thank you for helping make this resource better! 🙏
 - **Jinhua**: 1
 - **Jining**: 1
 - **Mianyang**: 1
+- **Seongnam**: 1
 - **Tianjin**: 1
 - **Wuhu**: 1
 - **Wuxi**: 1
