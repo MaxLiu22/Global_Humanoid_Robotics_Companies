@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/Humanoid%20Robotics%20Companies-87-blue.svg)](#companies) [![](https://img.shields.io/badge/Cities-24-green.svg)](#companies) [![](https://img.shields.io/badge/Data-JSON-orange.svg)](companies.json) [![](https://img.shields.io/badge/Docs-Markdown-lightgrey.svg)](README.md) [![](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![](https://img.shields.io/badge/Humanoid%20Robotics%20Companies-90-blue.svg)](#companies) [![](https://img.shields.io/badge/Cities-25-green.svg)](#companies) [![](https://img.shields.io/badge/Data-JSON-orange.svg)](companies.json) [![](https://img.shields.io/badge/Docs-Markdown-lightgrey.svg)](README.md) [![](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 # Humanoid Robotics Companies (⚡ actively updated)
 
@@ -46,6 +46,7 @@ A public list of companies that develop humanoid robotics. Ordered alphabeticall
 | High Torque | 高擎机电 | [Guangzhou](https://en.wikipedia.org/wiki/Guangzhou) | [Website](https://www.hightorquerobotics.com) | [Careers](https://www.hightorque.cn/category/jobs) |
 | Holiday Robotics | 홀리데이로보틱스 | [Seoul](https://en.wikipedia.org/wiki/Seoul) | [Website](https://holiday-robotics.com/) | [Careers](https://holiday-robotics.com/contact) |
 | Humanoid Robot | 人形机器人（上海） | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.openloong.net) | [Careers](https://www.openloong.net/col.jsp?id=114) |
+| Kawada Robotics | カワダロボティクス株式会社 | [Tokyo](https://en.wikipedia.org/wiki/Tokyo) | [Website](https://www.kawadarobot.co.jp/en/) | [Careers](https://kawaroborecruit.com/en/) |
 | Keepler | 开普勒机器人 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://gotokepler.com/home) | [Careers](https://www.zhipin.com/gongsi/job/df65785ecc0b2c9003R629W4FVQ~.html) |
 | LANXIN Robotics | 蓝芯机器人 | [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou) | [Website](https://www.lanxincn.com) | [Careers](https://lanxincn.zhiye.com) |
 | LEJU Robot | 乐聚机器人 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://www.lejurobot.cn/en) | [Careers](https://www.zhipin.com/gongsi/2c25c62189532e1b0XZ62926.html) |
@@ -58,6 +59,7 @@ A public list of companies that develop humanoid robotics. Ordered alphabeticall
 | Midea | 美的 | [Foshan](https://en.wikipedia.org/wiki/Foshan) | [Website](https://www.midea.com.cn/en) | [Careers](https://www.midea.com.cn/en/careers) |
 | Noetix Robotics | 松延动力 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://en.noetixrobotics.com/) | [Careers](https://en.noetixrobotics.com/join.html) |
 | OneRobotics | 卧安机器人 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://www.onero.cn) | [Careers](https://www.zhipin.com/gongsi/857e8f4db1f987811Hxy0ty_FA~~.html) |
+| Ory Lab | 株式会社オリィ研究所 | [Tokyo](https://en.wikipedia.org/wiki/Tokyo) | [Website](https://orylab.com/en/) | [Careers](https://orylab.com/en/#contact) |
 | PL-Universe | 普罗宇宙 | [Suzhou](https://en.wikipedia.org/wiki/Suzhou,_Jiangsu) | [Website](https://en.pl-universe.com) | [Careers](https://pl-universe.com/about/10#aboutFour) |
 | PNDBotics | 柏奥尼克机器人 | [Ningbo](https://en.wikipedia.org/wiki/Ningbo) | [Website](https://pndbotics.com) | [Careers](https://www.zhipin.com/gongsi/a9f8ff5721f79c7a03V63dS7FlI~.html) |
 | Paxini | 帕西尼感知 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://paxini.com) | [Careers](https://paxini.com/recruit) |
@@ -73,6 +75,7 @@ A public list of companies that develop humanoid robotics. Ordered alphabeticall
 | RobotEra | 星动纪元 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://www.robotera.com/en/) | [Careers](https://www.robotera.com/join.html) |
 | Robotis | 로보티즈 | [Seoul](https://en.wikipedia.org/wiki/Seoul) | [Website](https://ai.robotis.com/) | [Careers](https://www.robotis.com/sub/about_contact.php) |
 | Rokae | 珞石机器人 | [Jining](https://en.wikipedia.org/wiki/Jining) | [Website](https://www.rokae.com/en/?u=aHR0cDovL3d3dy5yb2thZS5jb20vY24v) | [Careers](https://www.rokae.com/cn/about/107/Careers.html) |
+| RT Corporation | 株式会社アールティ | [Tokyo](https://en.wikipedia.org/wiki/Tokyo) | [Website](https://rt-net.jp/) | [Careers](https://rt-net.jp/company/recruit2025/) |
 | RuShen | 如身机器人 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.robot-gym.com/robot) | [Careers](https://www.zhipin.com/gongsi/ca196d83261c2d141X1-29W1FFM~.html) |
 | Spirit AI | 千寻智能 | [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou) | [Website](https://www.spirit-ai.com/en/) | [Careers](https://www.spirit-ai.com/en/career) |
 | TIAN QING | 软通天擎 | [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou) | [Website](https://www.tqartisan.com) | [Careers](https://www.zhipin.com/gongsi/0422e7b23dc72bbe03By0tS5ElM~.html) |
@@ -121,8 +124,8 @@ Thank you for helping make this resource better! 🙏
 
 ## Statistics
 
-- **Total Companies**: 87
-- **Cities**: 24
+- **Total Companies**: 90
+- **Cities**: 25
 
 ### Companies by City
 
@@ -133,6 +136,7 @@ Thank you for helping make this resource better! 🙏
 - **Seoul**: 6
 - **Guangzhou**: 3
 - **Suzhou**: 3
+- **Tokyo**: 3
 - **Nanjing**: 2
 - **Ningbo**: 2
 - **Wuhan**: 2

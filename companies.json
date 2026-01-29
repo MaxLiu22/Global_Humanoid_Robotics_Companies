@@ -607,5 +607,26 @@
         "city": "Seoul",
         "official_website": "https://www.lg.com/",
         "career_page": "https://recruit.lg.com/"
+    },
+    "Kawada Robotics": {
+        "english_name": "Kawada Robotics Corporation",
+        "native_name": "カワダロボティクス株式会社",
+        "city": "Tokyo",
+        "official_website": "https://www.kawadarobot.co.jp/en/",
+        "career_page": "https://kawaroborecruit.com/en/"
+    },
+    "Ory Lab": {
+        "english_name": "Ory Lab Inc.",
+        "native_name": "株式会社オリィ研究所",
+        "city": "Tokyo",
+        "official_website": "https://orylab.com/en/",
+        "career_page": "https://orylab.com/en/#contact"
+    },
+    "RT Corporation": {
+        "english_name": "RT Corporation",
+        "native_name": "株式会社アールティ",
+        "city": "Tokyo",
+        "official_website": "https://rt-net.jp/",
+        "career_page": "https://rt-net.jp/company/recruit2025/"
     }
 }
