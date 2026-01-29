@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/Humanoid%20Robotics%20Companies-99-blue.svg)](#companies) [![](https://img.shields.io/badge/Cities-33-green.svg)](#companies) [![](https://img.shields.io/badge/Data-JSON-orange.svg)](companies.json) [![](https://img.shields.io/badge/Docs-Markdown-lightgrey.svg)](README.md) [![](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![](https://img.shields.io/badge/Humanoid%20Robotics%20Companies-113-blue.svg)](#companies) [![](https://img.shields.io/badge/Cities-43-green.svg)](#companies) [![](https://img.shields.io/badge/Data-JSON-orange.svg)](companies.json) [![](https://img.shields.io/badge/Docs-Markdown-lightgrey.svg)](README.md) [![](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 # Humanoid Robotics Companies (⚡ actively updated)
 
@@ -12,6 +12,7 @@ A public list of companies that develop humanoid robotics. Ordered alphabeticall
 | AI2Robotics | 智平方 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://ai2robotics.com/en/) | [Careers](https://ai2robotics.com/en/joinus/) |
 | AeiROBOT | 에이로봇 | [Seongnam](https://en.wikipedia.org/wiki/Seongnam) | [Website](https://eng.arobot4all.com/) | [Careers](https://eng.arobot4all.com/) |
 | Agility Robotics | Agility Robotics | [Salem](https://en.wikipedia.org/wiki/Salem,_Oregon) | [Website](https://www.agilityrobotics.com/) | [Careers](https://www.agilityrobotics.com/about/careers) |
+| Agile Robots | Agile Robots | [Munich](https://en.wikipedia.org/wiki/Munich) | [Website](https://www.agile-robots.com/en/) | [Careers](https://www.agile-robots.com/en/lets-connect/) |
 | AgiBot | 智元机器人 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.agibot.com) | [Careers](https://www.zhiyuan-robot.com/join_us) |
 | Astribot | 星尘智能 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://www.astribot.com/en) | [Careers](https://www.astribot.com/en/careers) |
 | AtomRobot | 阿童木机器人 | [Tianjin](https://en.wikipedia.org/wiki/Tianjin) | [Website](https://www.atomrobot.ai) | [Careers](https://www.atomrobot.com/Recruiting) |
@@ -31,12 +32,15 @@ A public list of companies that develop humanoid robotics. Ordered alphabeticall
 | DeepRobotics | 云深处科技 | [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou) | [Website](https://www.deeprobotics.cn/en) | [Careers](https://www.zhipin.com/gongsi/38f3fae3410a70991nd509i8Fw~~.html) |
 | Dexforce | 跨维智能 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://www.dexforce.com) | [Careers](https://www.zhipin.com/gongsi/a29d4dc56c588cfa1XR52tu8E1U~.html) |
 | Dexteleop Intelligence | 灵御智能 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://www.dexteleop.com/) | [Careers](https://jcnpqmhgptfj.jobs.feishu.cn/index/m/?spread=JX28QFC) |
+| Devanthro | Devanthro | [Munich](https://en.wikipedia.org/wiki/Munich) | [Website](https://www.devanthro.com/) | [Careers](https://www.devanthro.com/career/) |
 | Digit | 数字华夏 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://digit.com.cn/Default.html) | [Careers](https://digit.com.cn/Join.html) |
 | DroidUp | 卓益得机器人 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.droidup.com) | [Careers](https://www.droidup.com/jiaruwomen) |
 | EIR | 具身科技 | [Chengdu](https://en.wikipedia.org/wiki/Chengdu) | [Website](https://www.eir.com.cn/#/) | [Careers](https://www.eir.com.cn/#/about?section=talent) |
+| Enchanted Tools | Enchanted Tools | [Paris](https://en.wikipedia.org/wiki/Paris) | [Website](https://enchanted.tools/) | [Careers](https://enchanted.tools/jobs) |
 | ELU.AI | 原力无限 | [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou) | [Website](https://elu-ai.com) | [Careers](https://www.zhipin.com/gongsi/3cec6cd7eb91b05703Ry0tm5F1I~.html) |
 | EXRobots | 蒂艾斯科技 | [Dalian](https://en.wikipedia.org/wiki/Dalian) | [Website](https://www.exrobots.net) | [Careers](https://www.exrobots.net/?page_id=4253) |
 | EngineAI | 众擎机器人 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://en.engineai.com.cn) | [Careers](https://en.engineai.com.cn/career.html) |
+| Engineered Arts | Engineered Arts | [Falmouth](https://en.wikipedia.org/wiki/Falmouth,_Cornwall) | [Website](https://engineeredarts.com/) | [Careers](https://engineeredarts.com/contact) |
 | Estun Codroid | 埃斯顿酷卓 | [Nanjing](https://en.wikipedia.org/wiki/Nanjing) | [Website](https://www.codroid.ai/en/) | [Careers](https://www.zhipin.com/gongsi/job/dac7905d695149501HZ73Nu8EFE~.html) |
 | Fourier | 傅利叶智能 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.fftai.com) | [Careers](https://www.fftai.com/career) |
 | Fauna Robotics | Fauna Robotics | [New York](https://en.wikipedia.org/wiki/New_York_City) | [Website](https://faunarobotics.com/) | [Careers](https://faunarobotics.com/careers) |
@@ -51,6 +55,7 @@ A public list of companies that develop humanoid robotics. Ordered alphabeticall
 | HFUN-TECH | 有怡科技 | [Jinhua](https://en.wikipedia.org/wiki/Jinhua) | [Website](https://www.hfun-tech.com) | [Careers](https://www.hfun-tech.com/col.jsp?id=102) |
 | High Torque | 高擎机电 | [Guangzhou](https://en.wikipedia.org/wiki/Guangzhou) | [Website](https://www.hightorquerobotics.com) | [Careers](https://www.hightorque.cn/category/jobs) |
 | Holiday Robotics | 홀리데이로보틱스 | [Seoul](https://en.wikipedia.org/wiki/Seoul) | [Website](https://holiday-robotics.com/) | [Careers](https://holiday-robotics.com/contact) |
+| Humanoid | Humanoid | [London](https://en.wikipedia.org/wiki/London) | [Website](https://thehumanoid.ai/) | [Careers](https://thehumanoid.ai/careers/) |
 | Humanoid Robot | 人形机器人（上海） | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.openloong.net) | [Careers](https://www.openloong.net/col.jsp?id=114) |
 | Kawada Robotics | カワダロボティクス株式会社 | [Tokyo](https://en.wikipedia.org/wiki/Tokyo) | [Website](https://www.kawadarobot.co.jp/en/) | [Careers](https://kawaroborecruit.com/en/) |
 | Keepler | 开普勒机器人 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://gotokepler.com/home) | [Careers](https://www.zhipin.com/gongsi/job/df65785ecc0b2c9003R629W4FVQ~.html) |
@@ -60,16 +65,23 @@ A public list of companies that develop humanoid robotics. Ordered alphabeticall
 | LIMX Dynamics | 逐际动力 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://limxdynamics.com/en) | [Careers](https://limxdynamics.com/en/about#careers) |
 | Li-Gong | 里工实业 | [Guangzhou](https://en.wikipedia.org/wiki/Guangzhou) | [Website](https://li-gong.com) | [Careers](https://m.zhipin.com/companys/32b0338623524aa21Xx53do~.html) |
 | Lumos Robotics | 鹿明机器人 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://www.lumosbot.tech/index.html) | [Careers](https://www.lumosbot.tech/career.html) |
+| Macco Robotics | Macco Robotics | [Seville](https://en.wikipedia.org/wiki/Seville) | [Website](https://www.maccorobotics.com/) | [Careers](https://www.maccorobotics.com/en/contact/) |
 | Magic Lab | 魔法原子 | [Wuxi](https://en.wikipedia.org/wiki/Wuxi) | [Website](https://www.magiclab.top/en) | [Careers](https://magiclab.zhiye.com/social) |
 | Matrix Robotics | 矩阵超智 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.matrixrobotics.ai) | [Careers](https://www.matrixrobotics.ai/zh-cn/careers) |
 | Midea | 美的 | [Foshan](https://en.wikipedia.org/wiki/Foshan) | [Website](https://www.midea.com.cn/en) | [Careers](https://www.midea.com.cn/en/careers) |
 | Noetix Robotics | 松延动力 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://en.noetixrobotics.com/) | [Careers](https://en.noetixrobotics.com/join.html) |
+| Navel Robotics | Navel Robotics | [Munich](https://en.wikipedia.org/wiki/Munich) | [Website](https://navelrobotics.com/) | [Careers](https://navelrobotics.com/en/jobs-2/) |
+| Neura Robotics | Neura Robotics | [Metzingen](https://en.wikipedia.org/wiki/Metzingen) | [Website](https://neura-robotics.com/) | [Careers](https://jobs.neura-robotics.com/) |
 | OneRobotics | 卧安机器人 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://www.onero.cn) | [Careers](https://www.zhipin.com/gongsi/857e8f4db1f987811Hxy0ty_FA~~.html) |
 | Ory Lab | 株式会社オリィ研究所 | [Tokyo](https://en.wikipedia.org/wiki/Tokyo) | [Website](https://orylab.com/en/) | [Careers](https://orylab.com/en/#contact) |
+| Oversonic Robotics | Oversonic Robotics | [Carate Brianza](https://en.wikipedia.org/wiki/Carate_Brianza) | [Website](https://www.oversonicrobotics.com/) | [Careers](https://www.oversonicrobotics.com/careers/) |
+| PAL Robotics | PAL Robotics | [Barcelona](https://en.wikipedia.org/wiki/Barcelona) | [Website](https://pal-robotics.com/) | [Careers](https://pal-robotics.com/who-we-are/careers/) |
 | PL-Universe | 普罗宇宙 | [Suzhou](https://en.wikipedia.org/wiki/Suzhou,_Jiangsu) | [Website](https://en.pl-universe.com) | [Careers](https://pl-universe.com/about/10#aboutFour) |
+| Pollen Robotics | Pollen Robotics | [Bordeaux](https://en.wikipedia.org/wiki/Bordeaux) | [Website](https://www.pollen-robotics.com/) | [Careers](https://www.pollen-robotics.com/contact-us/) |
 | PNDBotics | 柏奥尼克机器人 | [Ningbo](https://en.wikipedia.org/wiki/Ningbo) | [Website](https://pndbotics.com) | [Careers](https://www.zhipin.com/gongsi/a9f8ff5721f79c7a03V63dS7FlI~.html) |
 | Paxini | 帕西尼感知 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://paxini.com) | [Careers](https://paxini.com/recruit) |
 | Phybot | 动易科技 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://www.phybot.tech/en/home) | [Careers](https://www.phybot.tech/join-us) |
+| pi4 Robotics | pi4 Robotics | [Berlin](https://en.wikipedia.org/wiki/Berlin) | [Website](https://www.pi4.de/) | [Careers](https://www.pi4.de/careers.html) |
 | PsiBot | 灵初智能 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://www.psibot.ai/en/home/) | [Careers](https://www.psibot.ai/en/careers/) |
 | Persona AI | Persona AI | [Houston](https://en.wikipedia.org/wiki/Houston) | [Website](https://persona.ai/) | [Careers](https://persona.ai/contact-us/) |
 | Pudu Tech | 普渡科技 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://www.pudurobotics.com/en) | [Careers](https://pudutech.zhiye.com) |
@@ -85,6 +97,7 @@ A public list of companies that develop humanoid robotics. Ordered alphabeticall
 | RT Corporation | 株式会社アールティ | [Tokyo](https://en.wikipedia.org/wiki/Tokyo) | [Website](https://rt-net.jp/) | [Careers](https://rt-net.jp/company/recruit2025/) |
 | RuShen | 如身机器人 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.robot-gym.com/robot) | [Careers](https://www.zhipin.com/gongsi/ca196d83261c2d141X1-29W1FFM~.html) |
 | Spirit AI | 千寻智能 | [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou) | [Website](https://www.spirit-ai.com/en/) | [Careers](https://www.spirit-ai.com/en/career) |
+| TeknTrash Robotics | TeknTrash Robotics | [London](https://en.wikipedia.org/wiki/London) | [Website](https://www.tekntrash.com/) | [Careers](https://www.tekntrash.com/contact.php) |
 | TIAN QING | 软通天擎 | [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou) | [Website](https://www.tqartisan.com) | [Careers](https://www.zhipin.com/gongsi/0422e7b23dc72bbe03By0tS5ElM~.html) |
 | Tesla | Tesla | [Austin](https://en.wikipedia.org/wiki/Austin,_Texas) | [Website](https://www.tesla.com/) | [Careers](https://www.tesla.com/careers/search) |
 | TLIBOT | 天链机器人 | [Mianyang](https://en.wikipedia.org/wiki/Mianyang) | [Website](https://www.tlibot.com) | [Careers](https://www.tlibot.com/about_us.html#c_static_001-17237877146690) |
@@ -94,6 +107,7 @@ A public list of companies that develop humanoid robotics. Ordered alphabeticall
 | UniX AI | 优理奇 | [Suzhou](https://en.wikipedia.org/wiki/Suzhou,_Jiangsu) | [Website](https://www.unix-group.ai) | [Careers](https://www.unix-group.ai/join/199.html) |
 | Unitree | 宇树科技 | [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou) | [Website](https://www.unitree.com) | [Careers](https://www.unitree.com/position) |
 | Vizum | 伟景智能 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](http://www.vizumtech.com/) | [Careers](http://www.vizumtech.com/recruit.html) |
+| Wandercraft | Wandercraft | [Paris](https://en.wikipedia.org/wiki/Paris) | [Website](https://en.wandercraft.eu/) | [Careers](https://wandercraft.welcomekit.co/) |
 | Whalesbot | 鲸鱼机器人 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.whalesbot.ai) | [Careers](https://www.zhipin.com/gongsi/3710d6fe78f01de933xy09W7Eg~~.html) |
 | Weave Robotics | Weave Robotics | [San Francisco](https://en.wikipedia.org/wiki/San_Francisco) | [Website](https://www.weaverobotics.com/) | [Careers](https://app.dover.com/jobs/weaverobotics) |
 | X Square Robot | 自变量机器人 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://www.x2robot.com/en) | [Careers](https://www.x2robot.com/en/join) |
@@ -133,8 +147,8 @@ Thank you for helping make this resource better! 🙏
 
 ## Statistics
 
-- **Total Companies**: 99
-- **Cities**: 33
+- **Total Companies**: 113
+- **Cities**: 43
 
 ### Companies by City
 
@@ -143,17 +157,25 @@ Thank you for helping make this resource better! 🙏
 - **Shanghai**: 13
 - **Hangzhou**: 7
 - **Seoul**: 6
+- **Munich**: 3
 - **Guangzhou**: 3
 - **Suzhou**: 3
 - **Tokyo**: 3
 - **Austin**: 2
+- **London**: 2
 - **Nanjing**: 2
 - **Ningbo**: 2
+- **Paris**: 2
 - **Wuhan**: 2
+- **Barcelona**: 1
+- **Berlin**: 1
+- **Bordeaux**: 1
+- **Carate Brianza**: 1
 - **Changsha**: 1
 - **Chengdu**: 1
 - **Daejeon**: 1
 - **Dalian**: 1
+- **Falmouth**: 1
 - **Foshan**: 1
 - **Hefei**: 1
 - **Houston**: 1
@@ -161,12 +183,14 @@ Thank you for helping make this resource better! 🙏
 - **Jinhua**: 1
 - **Jining**: 1
 - **Mianyang**: 1
+- **Metzingen**: 1
 - **New York**: 1
 - **Palo Alto**: 1
 - **Salem**: 1
 - **San Francisco**: 1
 - **San Jose**: 1
 - **Seongnam**: 1
+- **Seville**: 1
 - **Tianjin**: 1
 - **Waltham**: 1
 - **Wuhu**: 1
