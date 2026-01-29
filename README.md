@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/Humanoid%20Robotics%20Companies-90-blue.svg)](#companies) [![](https://img.shields.io/badge/Cities-25-green.svg)](#companies) [![](https://img.shields.io/badge/Data-JSON-orange.svg)](companies.json) [![](https://img.shields.io/badge/Docs-Markdown-lightgrey.svg)](README.md) [![](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![](https://img.shields.io/badge/Humanoid%20Robotics%20Companies-99-blue.svg)](#companies) [![](https://img.shields.io/badge/Cities-33-green.svg)](#companies) [![](https://img.shields.io/badge/Data-JSON-orange.svg)](companies.json) [![](https://img.shields.io/badge/Docs-Markdown-lightgrey.svg)](README.md) [![](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 # Humanoid Robotics Companies (⚡ actively updated)
 
@@ -8,13 +8,17 @@ A public list of companies that develop humanoid robotics. Ordered alphabeticall
 
 | Company Name | Native Name | City | Official Website | Career Page |
 |--------------|-------------|------|------------------|-------------|
+| 1X Technologies | 1X Technologies | [Palo Alto](https://en.wikipedia.org/wiki/Palo_Alto,_California) | [Website](https://www.1x.tech/) | [Careers](https://www.1x.tech/careers) |
 | AI2Robotics | 智平方 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://ai2robotics.com/en/) | [Careers](https://ai2robotics.com/en/joinus/) |
 | AeiROBOT | 에이로봇 | [Seongnam](https://en.wikipedia.org/wiki/Seongnam) | [Website](https://eng.arobot4all.com/) | [Careers](https://eng.arobot4all.com/) |
+| Agility Robotics | Agility Robotics | [Salem](https://en.wikipedia.org/wiki/Salem,_Oregon) | [Website](https://www.agilityrobotics.com/) | [Careers](https://www.agilityrobotics.com/about/careers) |
 | AgiBot | 智元机器人 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.agibot.com) | [Careers](https://www.zhiyuan-robot.com/join_us) |
 | Astribot | 星尘智能 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://www.astribot.com/en) | [Careers](https://www.astribot.com/en/careers) |
 | AtomRobot | 阿童木机器人 | [Tianjin](https://en.wikipedia.org/wiki/Tianjin) | [Website](https://www.atomrobot.ai) | [Careers](https://www.atomrobot.com/Recruiting) |
+| Apptronik | Apptronik | [Austin](https://en.wikipedia.org/wiki/Austin,_Texas) | [Website](https://apptronik.com/) | [Careers](https://apptronik.com/careers) |
 | Beijing Innovation Center of Humanoid Robotics | 北京人形机器人创新中心 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://www.x-humanoid.com/) | [Careers](https://zitd5je6f7j.jobs.feishu.cn/referral/position?token=MzsxNzUzODU2MjYwNDI4OzczNDI0MDAyNjkzMjAwMjgxNjI7MDsx) |
 | Blue Robin | 블루로빈 | [Seoul](https://en.wikipedia.org/wiki/Seoul) | [Website](https://www.bluerobin.co.kr/) | [Careers](https://www.bluerobin.co.kr/EN/include/pages/careers.php) |
+| Boston Dynamics | Boston Dynamics | [Waltham](https://en.wikipedia.org/wiki/Waltham,_Massachusetts) | [Website](https://bostondynamics.com/) | [Careers](https://bostondynamics.com/careers/) |
 | Booster Robotics | 加速进化 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://www.booster.tech/) | [Careers](https://www.zhipin.com/gongsi/e31a2aa77f0ce7f41HR-2di1FFY~.html) |
 | CASBOT | 灵宝 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://casbot.tech/) | [Careers](https://www.zhipin.com/gongsi/6af49446246079391HV82tS8E1E~.html?ka=company-intro) |
 | CHAONENG ROBOT | 超能机器人 | [Changsha](https://en.wikipedia.org/wiki/Changsha) | [Website](https://www.hncnbot.com) | [Careers](https://www.zhipin.com/gongsi/3d168f69d3eb5f151nN43t66Eg~~.html) |
@@ -35,6 +39,8 @@ A public list of companies that develop humanoid robotics. Ordered alphabeticall
 | EngineAI | 众擎机器人 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://en.engineai.com.cn) | [Careers](https://en.engineai.com.cn/career.html) |
 | Estun Codroid | 埃斯顿酷卓 | [Nanjing](https://en.wikipedia.org/wiki/Nanjing) | [Website](https://www.codroid.ai/en/) | [Careers](https://www.zhipin.com/gongsi/job/dac7905d695149501HZ73Nu8EFE~.html) |
 | Fourier | 傅利叶智能 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.fftai.com) | [Careers](https://www.fftai.com/career) |
+| Fauna Robotics | Fauna Robotics | [New York](https://en.wikipedia.org/wiki/New_York_City) | [Website](https://faunarobotics.com/) | [Careers](https://faunarobotics.com/careers) |
+| Figure AI | Figure AI | [San Jose](https://en.wikipedia.org/wiki/San_Jose,_California) | [Website](https://www.figure.ai/) | [Careers](https://www.figure.ai/careers) |
 | GAC Group | 广汽集团 | [Guangzhou](https://en.wikipedia.org/wiki/Guangzhou) | [Website](https://www.gacgroup.com/en) | [Careers](https://career.gac-international.com/apply/gac-international/100006013/) |
 | GENISOM AI | 智身科技 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://zsibot.com/home) | [Careers](https://www.zhipin.com/gongsi/574244613dd1020803V529y9FFI~.html) |
 | GLRoad | 格蓝若机器人 | [Wuhan](https://en.wikipedia.org/wiki/Wuhan) | [Website](https://www.glroad.com/HumanoidRobots/index.aspx) | [Careers](https://www.glroad.com/JoinUs/index.aspx) |
@@ -65,6 +71,7 @@ A public list of companies that develop humanoid robotics. Ordered alphabeticall
 | Paxini | 帕西尼感知 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://paxini.com) | [Careers](https://paxini.com/recruit) |
 | Phybot | 动易科技 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://www.phybot.tech/en/home) | [Careers](https://www.phybot.tech/join-us) |
 | PsiBot | 灵初智能 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://www.psibot.ai/en/home/) | [Careers](https://www.psibot.ai/en/careers/) |
+| Persona AI | Persona AI | [Houston](https://en.wikipedia.org/wiki/Houston) | [Website](https://persona.ai/) | [Careers](https://persona.ai/contact-us/) |
 | Pudu Tech | 普渡科技 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://www.pudurobotics.com/en) | [Careers](https://pudutech.zhiye.com) |
 | QingBao | 清宝引擎机器人 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.qingyun-robot.com/zh/home) | [Careers](https://www.liepin.com/company-jobs/13056561/) |
 | Rainbow Robotics | 레인보우로보틱스 | [Daejeon](https://en.wikipedia.org/wiki/Daejeon) | [Website](https://www.rainbow-robotics.com/) | [Careers](https://www.rainbow-robotics.com/en_recruit) |
@@ -79,6 +86,7 @@ A public list of companies that develop humanoid robotics. Ordered alphabeticall
 | RuShen | 如身机器人 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.robot-gym.com/robot) | [Careers](https://www.zhipin.com/gongsi/ca196d83261c2d141X1-29W1FFM~.html) |
 | Spirit AI | 千寻智能 | [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou) | [Website](https://www.spirit-ai.com/en/) | [Careers](https://www.spirit-ai.com/en/career) |
 | TIAN QING | 软通天擎 | [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou) | [Website](https://www.tqartisan.com) | [Careers](https://www.zhipin.com/gongsi/0422e7b23dc72bbe03By0tS5ElM~.html) |
+| Tesla | Tesla | [Austin](https://en.wikipedia.org/wiki/Austin,_Texas) | [Website](https://www.tesla.com/) | [Careers](https://www.tesla.com/careers/search) |
 | TLIBOT | 天链机器人 | [Mianyang](https://en.wikipedia.org/wiki/Mianyang) | [Website](https://www.tlibot.com) | [Careers](https://www.tlibot.com/about_us.html#c_static_001-17237877146690) |
 | Tencent Robotics X | 腾讯机器人 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://roboticsx.tencent.com/#/) | [Careers](https://careers.tencent.com/en-us/home.html) |
 | Ti5Robot | 钛虎机器人 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.ti5robot.com/en/) | [Careers](https://www.zhipin.com/gongsi/30a7ce5d333806501nd63966ElA~.html) |
@@ -87,6 +95,7 @@ A public list of companies that develop humanoid robotics. Ordered alphabeticall
 | Unitree | 宇树科技 | [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou) | [Website](https://www.unitree.com) | [Careers](https://www.unitree.com/position) |
 | Vizum | 伟景智能 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](http://www.vizumtech.com/) | [Careers](http://www.vizumtech.com/recruit.html) |
 | Whalesbot | 鲸鱼机器人 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.whalesbot.ai) | [Careers](https://www.zhipin.com/gongsi/3710d6fe78f01de933xy09W7Eg~~.html) |
+| Weave Robotics | Weave Robotics | [San Francisco](https://en.wikipedia.org/wiki/San_Francisco) | [Website](https://www.weaverobotics.com/) | [Careers](https://app.dover.com/jobs/weaverobotics) |
 | X Square Robot | 自变量机器人 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://www.x2robot.com/en) | [Careers](https://www.x2robot.com/en/join) |
 | XPENG | 小鹏机器人 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://www.xpeng.com/?fromNav=1) | [Careers](https://xiaopeng.jobs.feishu.cn/index) |
 | Xiaomi | 小米 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://www.mi.com/cyberone) | [Careers](https://hr.xiaomi.com/) |
@@ -124,8 +133,8 @@ Thank you for helping make this resource better! 🙏
 
 ## Statistics
 
-- **Total Companies**: 90
-- **Cities**: 25
+- **Total Companies**: 99
+- **Cities**: 33
 
 ### Companies by City
 
@@ -137,6 +146,7 @@ Thank you for helping make this resource better! 🙏
 - **Guangzhou**: 3
 - **Suzhou**: 3
 - **Tokyo**: 3
+- **Austin**: 2
 - **Nanjing**: 2
 - **Ningbo**: 2
 - **Wuhan**: 2
@@ -146,12 +156,19 @@ Thank you for helping make this resource better! 🙏
 - **Dalian**: 1
 - **Foshan**: 1
 - **Hefei**: 1
+- **Houston**: 1
 - **Jinan**: 1
 - **Jinhua**: 1
 - **Jining**: 1
 - **Mianyang**: 1
+- **New York**: 1
+- **Palo Alto**: 1
+- **Salem**: 1
+- **San Francisco**: 1
+- **San Jose**: 1
 - **Seongnam**: 1
 - **Tianjin**: 1
+- **Waltham**: 1
 - **Wuhu**: 1
 - **Wuxi**: 1
 

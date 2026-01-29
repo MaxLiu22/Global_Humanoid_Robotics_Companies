@@ -628,5 +628,68 @@
         "city": "Tokyo",
         "official_website": "https://rt-net.jp/",
         "career_page": "https://rt-net.jp/company/recruit2025/"
+    },
+    "Tesla": {
+        "english_name": "Tesla",
+        "native_name": "Tesla",
+        "city": "Austin",
+        "official_website": "https://www.tesla.com/",
+        "career_page": "https://www.tesla.com/careers/search"
+    },
+    "Figure AI": {
+        "english_name": "Figure AI",
+        "native_name": "Figure AI",
+        "city": "San Jose",
+        "official_website": "https://www.figure.ai/",
+        "career_page": "https://www.figure.ai/careers"
+    },
+    "Agility Robotics": {
+        "english_name": "Agility Robotics",
+        "native_name": "Agility Robotics",
+        "city": "Salem",
+        "official_website": "https://www.agilityrobotics.com/",
+        "career_page": "https://www.agilityrobotics.com/about/careers"
+    },
+    "Boston Dynamics": {
+        "english_name": "Boston Dynamics",
+        "native_name": "Boston Dynamics",
+        "city": "Waltham",
+        "official_website": "https://bostondynamics.com/",
+        "career_page": "https://bostondynamics.com/careers/"
+    },
+    "1X Technologies": {
+        "english_name": "1X Technologies",
+        "native_name": "1X Technologies",
+        "city": "Palo Alto",
+        "official_website": "https://www.1x.tech/",
+        "career_page": "https://www.1x.tech/careers"
+    },
+    "Apptronik": {
+        "english_name": "Apptronik",
+        "native_name": "Apptronik",
+        "city": "Austin",
+        "official_website": "https://apptronik.com/",
+        "career_page": "https://apptronik.com/careers"
+    },
+    "Persona AI": {
+        "english_name": "Persona AI",
+        "native_name": "Persona AI",
+        "city": "Houston",
+        "official_website": "https://persona.ai/",
+        "career_page": "https://persona.ai/contact-us/"
+    },
+    "Weave Robotics": {
+        "english_name": "Weave Robotics",
+        "native_name": "Weave Robotics",
+        "city": "San Francisco",
+        "official_website": "https://www.weaverobotics.com/",
+        "career_page": "https://app.dover.com/jobs/weaverobotics"
+    },
+    "Fauna Robotics": {
+        "english_name": "Fauna Robotics",
+        "native_name": "Fauna Robotics",
+        "city": "New York",
+        "official_website": "https://faunarobotics.com/",
+        "career_page": "https://faunarobotics.com/careers"
     }
 }
