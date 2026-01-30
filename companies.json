@@ -824,5 +824,12 @@
         "city": "Moscow",
         "official_website": "https://aidoltech.ru/",
         "career_page": "https://aidoltech.ru/contact"
+    },
+    "Clone Robotics": {
+        "english_name": "Clone Robotics",
+        "native_name": "Clone Robotics",
+        "city": "Wrocław",
+        "official_website": "https://clonerobotics.com/",
+        "career_page": "https://clonerobotics.com/company#open-roles"
     }
 }
