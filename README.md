@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/Humanoid%20Robotics%20Companies-113-blue.svg)](#companies) [![](https://img.shields.io/badge/Cities-43-green.svg)](#companies) [![](https://img.shields.io/badge/Data-JSON-orange.svg)](companies.json) [![](https://img.shields.io/badge/Docs-Markdown-lightgrey.svg)](README.md) [![](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![](https://img.shields.io/badge/Humanoid%20Robotics%20Companies-118-blue.svg)](#companies) [![](https://img.shields.io/badge/Cities-48-green.svg)](#companies) [![](https://img.shields.io/badge/Data-JSON-orange.svg)](companies.json) [![](https://img.shields.io/badge/Docs-Markdown-lightgrey.svg)](README.md) [![](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 # Humanoid Robotics Companies (⚡ actively updated)
 
@@ -121,6 +121,11 @@ A public list of companies that develop humanoid robotics. Ordered alphabeticall
 | 111 | ZJ-Humanoid | 浙江人形机器人创新中心 | [Ningbo](https://en.wikipedia.org/wiki/Ningbo) | [Website](https://www.zj-humanoid.com) | [Careers](https://www.zj-humanoid.com/join/#xmd) |
 | 112 | Zhicheng AI | 智澄AI | [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou) | [Website](https://www.zhicheng-robot.com) | [Careers](https://www.zhipin.com/gongsi/aa7863fb9480bfbb1Hdy0ti9ElA~.html) |
 | 113 | iSAGEBOT | 飒智智能 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://en.sage-modi.com/index.aspx) | [Careers](https://www.liepin.com/company/12148735/) |
+| 114 | Sanctuary AI | Sanctuary AI | [Vancouver](https://en.wikipedia.org/wiki/Vancouver) | [Website](https://www.sanctuary.ai/) | [Careers](https://www.sanctuary.ai/careers) |
+| 115 | Muks Robotics | Muks Robotics | [Pune](https://en.wikipedia.org/wiki/Pune) | [Website](https://muksrobotics.com/) | [Careers](https://muksrobotics.com/career) |
+| 116 | Techman Robot | 達明機器人 | [Taoyuan City](https://en.wikipedia.org/wiki/Taoyuan,_Taiwan) | [Website](https://www.tm-robot.com/en/) | [Careers](https://www.tm-robot.com/en/contact-us/) |
+| 117 | AKINROBOTICS | AKINROBOTICS | [Konya](https://en.wikipedia.org/wiki/Konya) | [Website](https://www.akinrobotics.com/en/) | [Careers](https://www.akinrobotics.com/en/online-job-application) |
+| 118 | AIDOL | AIDOL | [Moscow](https://en.wikipedia.org/wiki/Moscow) | [Website](https://aidoltech.ru/) | [Careers](https://aidoltech.ru/contact) |
 
 ## Criteria
 
@@ -147,8 +152,8 @@ Thank you for helping make this resource better! 🙏
 
 ## Statistics
 
-- **Total Companies**: 113
-- **Cities**: 43
+- **Total Companies**: 118
+- **Cities**: 48
 
 ### Companies by City
 
@@ -195,6 +200,11 @@ Thank you for helping make this resource better! 🙏
 - **Waltham**: 1
 - **Wuhu**: 1
 - **Wuxi**: 1
+- **Vancouver**: 1
+- **Pune**: 1
+- **Taoyuan City**: 1
+- **Konya**: 1
+- **Moscow**: 1
 
 ## License
 

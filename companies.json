@@ -789,5 +789,40 @@
         "city": "London",
         "official_website": "https://www.tekntrash.com/",
         "career_page": "https://www.tekntrash.com/contact.php"
+    },
+    "Sanctuary AI": {
+        "english_name": "Sanctuary AI",
+        "native_name": "Sanctuary AI",
+        "city": "Vancouver",
+        "official_website": "https://www.sanctuary.ai/",
+        "career_page": "https://www.sanctuary.ai/careers"
+    },
+    "Muks Robotics": {
+        "english_name": "Muks Robotics",
+        "native_name": "Muks Robotics",
+        "city": "Pune",
+        "official_website": "https://muksrobotics.com/",
+        "career_page": "https://muksrobotics.com/career"
+    },
+    "Techman Robot": {
+        "english_name": "Techman Robot",
+        "native_name": "達明機器人",
+        "city": "Taoyuan City",
+        "official_website": "https://www.tm-robot.com/en/",
+        "career_page": "https://www.tm-robot.com/en/contact-us/"
+    },
+    "AKINROBOTICS": {
+        "english_name": "AKINROBOTICS",
+        "native_name": "AKINROBOTICS",
+        "city": "Konya",
+        "official_website": "https://www.akinrobotics.com/en/",
+        "career_page": "https://www.akinrobotics.com/en/online-job-application"
+    },
+    "AIDOL": {
+        "english_name": "AIDOL",
+        "native_name": "AIDOL",
+        "city": "Moscow",
+        "official_website": "https://aidoltech.ru/",
+        "career_page": "https://aidoltech.ru/contact"
     }
 }
