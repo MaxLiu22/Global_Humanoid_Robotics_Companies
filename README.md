@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/Humanoid%20Robotics%20Companies-119-blue.svg)](#companies) [![](https://img.shields.io/badge/Cities-49-green.svg)](#companies) [![](https://img.shields.io/badge/Data-JSON-orange.svg)](companies.json) [![](https://img.shields.io/badge/Docs-Markdown-lightgrey.svg)](README.md) [![](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![](https://img.shields.io/badge/Humanoid%20Robotics%20Companies-120-blue.svg)](#companies) [![](https://img.shields.io/badge/Cities-49-green.svg)](#companies) [![](https://img.shields.io/badge/Data-JSON-orange.svg)](companies.json) [![](https://img.shields.io/badge/Docs-Markdown-lightgrey.svg)](README.md) [![](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 # Humanoid Robotics Companies (⚡ actively updated)
 
@@ -73,60 +73,61 @@ A public list of companies that develop humanoid robotics. Ordered alphabeticall
 | 63 | Magic Lab | 魔法原子 | [Wuxi](https://en.wikipedia.org/wiki/Wuxi) | [Website](https://www.magiclab.top/en) | [Careers](https://magiclab.zhiye.com/social) |
 | 64 | Matrix Robotics | 矩阵超智 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.matrixrobotics.ai) | [Careers](https://www.matrixrobotics.ai/zh-cn/careers) |
 | 65 | Midea | 美的 | [Foshan](https://en.wikipedia.org/wiki/Foshan) | [Website](https://www.midea.com.cn/en) | [Careers](https://www.midea.com.cn/en/careers) |
-| 66 | Noetix Robotics | 松延动力 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://en.noetixrobotics.com/) | [Careers](https://en.noetixrobotics.com/join.html) |
-| 67 | Navel Robotics | Navel Robotics | [Munich](https://en.wikipedia.org/wiki/Munich) | [Website](https://navelrobotics.com/) | [Careers](https://navelrobotics.com/en/jobs-2/) |
-| 68 | Neura Robotics | Neura Robotics | [Metzingen](https://en.wikipedia.org/wiki/Metzingen) | [Website](https://neura-robotics.com/) | [Careers](https://jobs.neura-robotics.com/) |
-| 69 | OneRobotics | 卧安机器人 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://www.onero.cn) | [Careers](https://www.zhipin.com/gongsi/857e8f4db1f987811Hxy0ty_FA~~.html) |
-| 70 | Ory Lab | 株式会社オリィ研究所 | [Tokyo](https://en.wikipedia.org/wiki/Tokyo) | [Website](https://orylab.com/en/) | [Careers](https://orylab.com/en/#contact) |
-| 71 | Oversonic Robotics | Oversonic Robotics | [Carate Brianza](https://en.wikipedia.org/wiki/Carate_Brianza) | [Website](https://www.oversonicrobotics.com/) | [Careers](https://www.oversonicrobotics.com/careers/) |
-| 72 | PAL Robotics | PAL Robotics | [Barcelona](https://en.wikipedia.org/wiki/Barcelona) | [Website](https://pal-robotics.com/) | [Careers](https://pal-robotics.com/who-we-are/careers/) |
-| 73 | PL-Universe | 普罗宇宙 | [Suzhou](https://en.wikipedia.org/wiki/Suzhou,_Jiangsu) | [Website](https://en.pl-universe.com) | [Careers](https://pl-universe.com/about/10#aboutFour) |
-| 74 | Pollen Robotics | Pollen Robotics | [Bordeaux](https://en.wikipedia.org/wiki/Bordeaux) | [Website](https://www.pollen-robotics.com/) | [Careers](https://www.pollen-robotics.com/contact-us/) |
-| 75 | PNDBotics | 柏奥尼克机器人 | [Ningbo](https://en.wikipedia.org/wiki/Ningbo) | [Website](https://pndbotics.com) | [Careers](https://www.zhipin.com/gongsi/a9f8ff5721f79c7a03V63dS7FlI~.html) |
-| 76 | Paxini | 帕西尼感知 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://paxini.com) | [Careers](https://paxini.com/recruit) |
-| 77 | Phybot | 动易科技 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://www.phybot.tech/en/home) | [Careers](https://www.phybot.tech/join-us) |
-| 78 | pi4 Robotics | pi4 Robotics | [Berlin](https://en.wikipedia.org/wiki/Berlin) | [Website](https://www.pi4.de/) | [Careers](https://www.pi4.de/careers.html) |
-| 79 | PsiBot | 灵初智能 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://www.psibot.ai/en/home/) | [Careers](https://www.psibot.ai/en/careers/) |
-| 80 | Persona AI | Persona AI | [Houston](https://en.wikipedia.org/wiki/Houston) | [Website](https://persona.ai/) | [Careers](https://persona.ai/contact-us/) |
-| 81 | Pudu Tech | 普渡科技 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://www.pudurobotics.com/en) | [Careers](https://pudutech.zhiye.com) |
-| 82 | QingBao | 清宝引擎机器人 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.qingyun-robot.com/zh/home) | [Careers](https://www.liepin.com/company-jobs/13056561/) |
-| 83 | Rainbow Robotics | 레인보우로보틱스 | [Daejeon](https://en.wikipedia.org/wiki/Daejeon) | [Website](https://www.rainbow-robotics.com/) | [Careers](https://www.rainbow-robotics.com/en_recruit) |
-| 84 | Realman Robotics | 睿尔曼 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://www.realman-robotics.com/) | [Careers](https://app.mokahr.com/social-recruitment/realman/149934#/jobs?zhineng%5B0%5D=187671&commitment%5B0%5D=%E5%85%A8%E8%81%8C&page=1&anchorName=jobsList) |
-| 85 | Robbyant | 灵波科技 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.robbyant.com) | [Careers](https://www.zhipin.com/companys/0bd91afb33a787d103N90924EFA~.html) |
-| 86 | Robros | 로브로스 | [Seoul](https://en.wikipedia.org/wiki/Seoul) | [Website](https://robros.co.kr/) | [Careers](https://robros.co.kr/Career) |
-| 87 | RoboSense | 速腾聚创 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://www.robosense.ai/en/index/index) | [Careers](https://app.mokahr.com/campus-recruitment/robosense/69887#/) |
-| 88 | RobotEra | 星动纪元 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://www.robotera.com/en/) | [Careers](https://www.robotera.com/join.html) |
-| 89 | Robotis | 로보티즈 | [Seoul](https://en.wikipedia.org/wiki/Seoul) | [Website](https://ai.robotis.com/) | [Careers](https://www.robotis.com/sub/about_contact.php) |
-| 90 | Rokae | 珞石机器人 | [Jining](https://en.wikipedia.org/wiki/Jining) | [Website](https://www.rokae.com/en/?u=aHR0cDovL3d3dy5yb2thZS5jb20vY24v) | [Careers](https://www.rokae.com/cn/about/107/Careers.html) |
-| 91 | RT Corporation | 株式会社アールティ | [Tokyo](https://en.wikipedia.org/wiki/Tokyo) | [Website](https://rt-net.jp/) | [Careers](https://rt-net.jp/company/recruit2025/) |
-| 92 | RuShen | 如身机器人 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.robot-gym.com/robot) | [Careers](https://www.zhipin.com/gongsi/ca196d83261c2d141X1-29W1FFM~.html) |
-| 93 | Spirit AI | 千寻智能 | [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou) | [Website](https://www.spirit-ai.com/en/) | [Careers](https://www.spirit-ai.com/en/career) |
-| 94 | Sanctuary AI | Sanctuary AI | [Vancouver](https://en.wikipedia.org/wiki/Vancouver) | [Website](https://www.sanctuary.ai/) | [Careers](https://www.sanctuary.ai/careers) |
-| 95 | TeknTrash Robotics | TeknTrash Robotics | [London](https://en.wikipedia.org/wiki/London) | [Website](https://www.tekntrash.com/) | [Careers](https://www.tekntrash.com/contact.php) |
-| 96 | Techman Robot | 達明機器人 | [Taoyuan City](https://en.wikipedia.org/wiki/Taoyuan,_Taiwan) | [Website](https://www.tm-robot.com/en/) | [Careers](https://www.tm-robot.com/en/contact-us/) |
-| 97 | TIAN QING | 软通天擎 | [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou) | [Website](https://www.tqartisan.com) | [Careers](https://www.zhipin.com/gongsi/0422e7b23dc72bbe03By0tS5ElM~.html) |
-| 98 | Tesla | Tesla | [Austin](https://en.wikipedia.org/wiki/Austin,_Texas) | [Website](https://www.tesla.com/) | [Careers](https://www.tesla.com/careers/search) |
-| 99 | TLIBOT | 天链机器人 | [Mianyang](https://en.wikipedia.org/wiki/Mianyang) | [Website](https://www.tlibot.com) | [Careers](https://www.tlibot.com/about_us.html#c_static_001-17237877146690) |
-| 100 | Tencent Robotics X | 腾讯机器人 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://roboticsx.tencent.com/#/) | [Careers](https://careers.tencent.com/en-us/home.html) |
-| 101 | Ti5Robot | 钛虎机器人 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.ti5robot.com/en/) | [Careers](https://www.zhipin.com/gongsi/30a7ce5d333806501nd63966ElA~.html) |
-| 102 | UBTECH | 优必选机器人 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://www.ubtrobot.com/en/) | [Careers](https://www.zhipin.com/companys/faf4dcd4bbcfac351nJ92tW6EVY~.html) |
-| 103 | UniX AI | 优理奇 | [Suzhou](https://en.wikipedia.org/wiki/Suzhou,_Jiangsu) | [Website](https://www.unix-group.ai) | [Careers](https://www.unix-group.ai/join/199.html) |
-| 104 | Unitree | 宇树科技 | [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou) | [Website](https://www.unitree.com) | [Careers](https://www.unitree.com/position) |
-| 105 | Vizum | 伟景智能 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](http://www.vizumtech.com/) | [Careers](http://www.vizumtech.com/recruit.html) |
-| 106 | Wandercraft | Wandercraft | [Paris](https://en.wikipedia.org/wiki/Paris) | [Website](https://en.wandercraft.eu/) | [Careers](https://wandercraft.welcomekit.co/) |
-| 107 | Whalesbot | 鲸鱼机器人 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.whalesbot.ai) | [Careers](https://www.zhipin.com/gongsi/3710d6fe78f01de933xy09W7Eg~~.html) |
-| 108 | Weave Robotics | Weave Robotics | [San Francisco](https://en.wikipedia.org/wiki/San_Francisco) | [Website](https://www.weaverobotics.com/) | [Careers](https://app.dover.com/jobs/weaverobotics) |
-| 109 | X Square Robot | 自变量机器人 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://www.x2robot.com/en) | [Careers](https://www.x2robot.com/en/join) |
-| 110 | XPENG | 小鹏机器人 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://www.xpeng.com/?fromNav=1) | [Careers](https://xiaopeng.jobs.feishu.cn/index) |
-| 111 | Xiaomi | 小米 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://www.mi.com/cyberone) | [Careers](https://hr.xiaomi.com/) |
-| 112 | YIJIAHE | 亿嘉和集团 | [Nanjing](https://en.wikipedia.org/wiki/Nanjing) | [Website](https://en.yijiahe.com) | [Careers](https://en.yijiahe.com/jobs) |
-| 113 | YMBot | 云幕智造 | [Suzhou](https://en.wikipedia.org/wiki/Suzhou,_Jiangsu) | [Website](https://www.ymbot.com/home) | [Careers](https://m.zhipin.com/companys/0ad0d9f955364aa503d83tS7GVc~.html) |
-| 114 | YoBotics | 优宝特机器人 | [Jinan](https://en.wikipedia.org/wiki/Jinan) | [Website](https://www.yobotics.cn/en/) | [Careers](https://www.yobotics.cn/about/zxns/) |
-| 115 | Yue Quan Bionics | 月泉仿生 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://yqbionics.com/sy) | [Careers](https://yqbionics.com/jrwm) |
-| 116 | ZERITH | 零次方机器人 | [Hefei](https://en.wikipedia.org/wiki/Hefei) | [Website](https://www.zerith.com) | [Careers](https://www.zerith.com/join) |
-| 117 | ZJ-Humanoid | 浙江人形机器人创新中心 | [Ningbo](https://en.wikipedia.org/wiki/Ningbo) | [Website](https://www.zj-humanoid.com) | [Careers](https://www.zj-humanoid.com/join/#xmd) |
-| 118 | Zhicheng AI | 智澄AI | [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou) | [Website](https://www.zhicheng-robot.com) | [Careers](https://www.zhipin.com/gongsi/aa7863fb9480bfbb1Hdy0ti9ElA~.html) |
-| 119 | iSAGEBOT | 飒智智能 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://en.sage-modi.com/index.aspx) | [Careers](https://www.liepin.com/company/12148735/) |
+| 66 | MirrorMe Technology | 镜识科技 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.mirrormetech.com/) | [Careers](https://www.mirrormetech.com/en/contact.html) |
+| 67 | Noetix Robotics | 松延动力 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://en.noetixrobotics.com/) | [Careers](https://en.noetixrobotics.com/join.html) |
+| 68 | Navel Robotics | Navel Robotics | [Munich](https://en.wikipedia.org/wiki/Munich) | [Website](https://navelrobotics.com/) | [Careers](https://navelrobotics.com/en/jobs-2/) |
+| 69 | Neura Robotics | Neura Robotics | [Metzingen](https://en.wikipedia.org/wiki/Metzingen) | [Website](https://neura-robotics.com/) | [Careers](https://jobs.neura-robotics.com/) |
+| 70 | OneRobotics | 卧安机器人 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://www.onero.cn) | [Careers](https://www.zhipin.com/gongsi/857e8f4db1f987811Hxy0ty_FA~~.html) |
+| 71 | Ory Lab | 株式会社オリィ研究所 | [Tokyo](https://en.wikipedia.org/wiki/Tokyo) | [Website](https://orylab.com/en/) | [Careers](https://orylab.com/en/#contact) |
+| 72 | Oversonic Robotics | Oversonic Robotics | [Carate Brianza](https://en.wikipedia.org/wiki/Carate_Brianza) | [Website](https://www.oversonicrobotics.com/) | [Careers](https://www.oversonicrobotics.com/careers/) |
+| 73 | PAL Robotics | PAL Robotics | [Barcelona](https://en.wikipedia.org/wiki/Barcelona) | [Website](https://pal-robotics.com/) | [Careers](https://pal-robotics.com/who-we-are/careers/) |
+| 74 | PL-Universe | 普罗宇宙 | [Suzhou](https://en.wikipedia.org/wiki/Suzhou,_Jiangsu) | [Website](https://en.pl-universe.com) | [Careers](https://pl-universe.com/about/10#aboutFour) |
+| 75 | Pollen Robotics | Pollen Robotics | [Bordeaux](https://en.wikipedia.org/wiki/Bordeaux) | [Website](https://www.pollen-robotics.com/) | [Careers](https://www.pollen-robotics.com/contact-us/) |
+| 76 | PNDBotics | 柏奥尼克机器人 | [Ningbo](https://en.wikipedia.org/wiki/Ningbo) | [Website](https://pndbotics.com) | [Careers](https://www.zhipin.com/gongsi/a9f8ff5721f79c7a03V63dS7FlI~.html) |
+| 77 | Paxini | 帕西尼感知 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://paxini.com) | [Careers](https://paxini.com/recruit) |
+| 78 | Phybot | 动易科技 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://www.phybot.tech/en/home) | [Careers](https://www.phybot.tech/join-us) |
+| 79 | pi4 Robotics | pi4 Robotics | [Berlin](https://en.wikipedia.org/wiki/Berlin) | [Website](https://www.pi4.de/) | [Careers](https://www.pi4.de/careers.html) |
+| 80 | PsiBot | 灵初智能 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://www.psibot.ai/en/home/) | [Careers](https://www.psibot.ai/en/careers/) |
+| 81 | Persona AI | Persona AI | [Houston](https://en.wikipedia.org/wiki/Houston) | [Website](https://persona.ai/) | [Careers](https://persona.ai/contact-us/) |
+| 82 | Pudu Tech | 普渡科技 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://www.pudurobotics.com/en) | [Careers](https://pudutech.zhiye.com) |
+| 83 | QingBao | 清宝引擎机器人 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.qingyun-robot.com/zh/home) | [Careers](https://www.liepin.com/company-jobs/13056561/) |
+| 84 | Rainbow Robotics | 레인보우로보틱스 | [Daejeon](https://en.wikipedia.org/wiki/Daejeon) | [Website](https://www.rainbow-robotics.com/) | [Careers](https://www.rainbow-robotics.com/en_recruit) |
+| 85 | Realman Robotics | 睿尔曼 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://www.realman-robotics.com/) | [Careers](https://app.mokahr.com/social-recruitment/realman/149934#/jobs?zhineng%5B0%5D=187671&commitment%5B0%5D=%E5%85%A8%E8%81%8C&page=1&anchorName=jobsList) |
+| 86 | Robbyant | 灵波科技 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.robbyant.com) | [Careers](https://www.zhipin.com/companys/0bd91afb33a787d103N90924EFA~.html) |
+| 87 | Robros | 로브로스 | [Seoul](https://en.wikipedia.org/wiki/Seoul) | [Website](https://robros.co.kr/) | [Careers](https://robros.co.kr/Career) |
+| 88 | RoboSense | 速腾聚创 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://www.robosense.ai/en/index/index) | [Careers](https://app.mokahr.com/campus-recruitment/robosense/69887#/) |
+| 89 | RobotEra | 星动纪元 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://www.robotera.com/en/) | [Careers](https://www.robotera.com/join.html) |
+| 90 | Robotis | 로보티즈 | [Seoul](https://en.wikipedia.org/wiki/Seoul) | [Website](https://ai.robotis.com/) | [Careers](https://www.robotis.com/sub/about_contact.php) |
+| 91 | Rokae | 珞石机器人 | [Jining](https://en.wikipedia.org/wiki/Jining) | [Website](https://www.rokae.com/en/?u=aHR0cDovL3d3dy5yb2thZS5jb20vY24v) | [Careers](https://www.rokae.com/cn/about/107/Careers.html) |
+| 92 | RT Corporation | 株式会社アールティ | [Tokyo](https://en.wikipedia.org/wiki/Tokyo) | [Website](https://rt-net.jp/) | [Careers](https://rt-net.jp/company/recruit2025/) |
+| 93 | RuShen | 如身机器人 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.robot-gym.com/robot) | [Careers](https://www.zhipin.com/gongsi/ca196d83261c2d141X1-29W1FFM~.html) |
+| 94 | Spirit AI | 千寻智能 | [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou) | [Website](https://www.spirit-ai.com/en/) | [Careers](https://www.spirit-ai.com/en/career) |
+| 95 | Sanctuary AI | Sanctuary AI | [Vancouver](https://en.wikipedia.org/wiki/Vancouver) | [Website](https://www.sanctuary.ai/) | [Careers](https://www.sanctuary.ai/careers) |
+| 96 | TeknTrash Robotics | TeknTrash Robotics | [London](https://en.wikipedia.org/wiki/London) | [Website](https://www.tekntrash.com/) | [Careers](https://www.tekntrash.com/contact.php) |
+| 97 | Techman Robot | 達明機器人 | [Taoyuan City](https://en.wikipedia.org/wiki/Taoyuan,_Taiwan) | [Website](https://www.tm-robot.com/en/) | [Careers](https://www.tm-robot.com/en/contact-us/) |
+| 98 | TIAN QING | 软通天擎 | [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou) | [Website](https://www.tqartisan.com) | [Careers](https://www.zhipin.com/gongsi/0422e7b23dc72bbe03By0tS5ElM~.html) |
+| 99 | Tesla | Tesla | [Austin](https://en.wikipedia.org/wiki/Austin,_Texas) | [Website](https://www.tesla.com/) | [Careers](https://www.tesla.com/careers/search) |
+| 100 | TLIBOT | 天链机器人 | [Mianyang](https://en.wikipedia.org/wiki/Mianyang) | [Website](https://www.tlibot.com) | [Careers](https://www.tlibot.com/about_us.html#c_static_001-17237877146690) |
+| 101 | Tencent Robotics X | 腾讯机器人 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://roboticsx.tencent.com/#/) | [Careers](https://careers.tencent.com/en-us/home.html) |
+| 102 | Ti5Robot | 钛虎机器人 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.ti5robot.com/en/) | [Careers](https://www.zhipin.com/gongsi/30a7ce5d333806501nd63966ElA~.html) |
+| 103 | UBTECH | 优必选机器人 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://www.ubtrobot.com/en/) | [Careers](https://www.zhipin.com/companys/faf4dcd4bbcfac351nJ92tW6EVY~.html) |
+| 104 | UniX AI | 优理奇 | [Suzhou](https://en.wikipedia.org/wiki/Suzhou,_Jiangsu) | [Website](https://www.unix-group.ai) | [Careers](https://www.unix-group.ai/join/199.html) |
+| 105 | Unitree | 宇树科技 | [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou) | [Website](https://www.unitree.com) | [Careers](https://www.unitree.com/position) |
+| 106 | Vizum | 伟景智能 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](http://www.vizumtech.com/) | [Careers](http://www.vizumtech.com/recruit.html) |
+| 107 | Wandercraft | Wandercraft | [Paris](https://en.wikipedia.org/wiki/Paris) | [Website](https://en.wandercraft.eu/) | [Careers](https://wandercraft.welcomekit.co/) |
+| 108 | Whalesbot | 鲸鱼机器人 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://www.whalesbot.ai) | [Careers](https://www.zhipin.com/gongsi/3710d6fe78f01de933xy09W7Eg~~.html) |
+| 109 | Weave Robotics | Weave Robotics | [San Francisco](https://en.wikipedia.org/wiki/San_Francisco) | [Website](https://www.weaverobotics.com/) | [Careers](https://app.dover.com/jobs/weaverobotics) |
+| 110 | X Square Robot | 自变量机器人 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://www.x2robot.com/en) | [Careers](https://www.x2robot.com/en/join) |
+| 111 | XPENG | 小鹏机器人 | [Shenzhen](https://en.wikipedia.org/wiki/Shenzhen) | [Website](https://www.xpeng.com/?fromNav=1) | [Careers](https://xiaopeng.jobs.feishu.cn/index) |
+| 112 | Xiaomi | 小米 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://www.mi.com/cyberone) | [Careers](https://hr.xiaomi.com/) |
+| 113 | YIJIAHE | 亿嘉和集团 | [Nanjing](https://en.wikipedia.org/wiki/Nanjing) | [Website](https://en.yijiahe.com) | [Careers](https://en.yijiahe.com/jobs) |
+| 114 | YMBot | 云幕智造 | [Suzhou](https://en.wikipedia.org/wiki/Suzhou,_Jiangsu) | [Website](https://www.ymbot.com/home) | [Careers](https://m.zhipin.com/companys/0ad0d9f955364aa503d83tS7GVc~.html) |
+| 115 | YoBotics | 优宝特机器人 | [Jinan](https://en.wikipedia.org/wiki/Jinan) | [Website](https://www.yobotics.cn/en/) | [Careers](https://www.yobotics.cn/about/zxns/) |
+| 116 | Yue Quan Bionics | 月泉仿生 | [Beijing](https://en.wikipedia.org/wiki/Beijing) | [Website](https://yqbionics.com/sy) | [Careers](https://yqbionics.com/jrwm) |
+| 117 | ZERITH | 零次方机器人 | [Hefei](https://en.wikipedia.org/wiki/Hefei) | [Website](https://www.zerith.com) | [Careers](https://www.zerith.com/join) |
+| 118 | ZJ-Humanoid | 浙江人形机器人创新中心 | [Ningbo](https://en.wikipedia.org/wiki/Ningbo) | [Website](https://www.zj-humanoid.com) | [Careers](https://www.zj-humanoid.com/join/#xmd) |
+| 119 | Zhicheng AI | 智澄AI | [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou) | [Website](https://www.zhicheng-robot.com) | [Careers](https://www.zhipin.com/gongsi/aa7863fb9480bfbb1Hdy0ti9ElA~.html) |
+| 120 | iSAGEBOT | 飒智智能 | [Shanghai](https://en.wikipedia.org/wiki/Shanghai) | [Website](https://en.sage-modi.com/index.aspx) | [Careers](https://www.liepin.com/company/12148735/) |
 
 ## Criteria
 

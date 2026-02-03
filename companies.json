@@ -831,5 +831,12 @@
         "city": "Wrocław",
         "official_website": "https://clonerobotics.com/",
         "career_page": "https://clonerobotics.com/company#open-roles"
+    },
+    "MirrorMe Technology": {
+        "english_name": "MirrorMe Technology",
+        "native_name": "镜识科技",
+        "city": "Shanghai",
+        "official_website": "https://www.mirrormetech.com/",
+        "career_page": "https://www.mirrormetech.com/en/contact.html"
     }
 }
