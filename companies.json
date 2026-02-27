@@ -205,7 +205,7 @@
         "city": "Shanghai",
         "official_website": "en.sage-modi.com/index.aspx",
         "career_page": "www.liepin.com/company/12148735/",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/iSAGEBOT_logo.png"
     },
     "Humanoid Robot": {
         "english_name": "Humanoid Robot",
@@ -213,7 +213,7 @@
         "city": "Shanghai",
         "official_website": "www.openloong.net",
         "career_page": "www.openloong.net/col.jsp?id=114",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/HumanoidRobot_logo.png"
     },
     "QingBao": {
         "english_name": "QingBao",
@@ -221,7 +221,7 @@
         "city": "Shanghai",
         "official_website": "www.qingyun-robot.com/zh/home",
         "career_page": "www.liepin.com/company-jobs/13056561/",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/QingBao_logo.png"
     },
     "RuShen": {
         "english_name": "RuShen",
@@ -229,7 +229,7 @@
         "city": "Shanghai",
         "official_website": "www.robot-gym.com/robot",
         "career_page": "www.zhipin.com/gongsi/ca196d83261c2d141X1-29W1FFM~.html",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/RuShen_logo.png"
     },
     "Unitree": {
         "english_name": "Unitree",
@@ -237,7 +237,7 @@
         "city": "Hangzhou",
         "official_website": "www.unitree.com",
         "career_page": "www.unitree.com/position",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/Unitree_logo.png"
     },
     "DeepRobotics": {
         "english_name": "DeepRobotics",
@@ -245,7 +245,7 @@
         "city": "Hangzhou",
         "official_website": "www.deeprobotics.cn/en",
         "career_page": "www.zhipin.com/gongsi/38f3fae3410a70991nd509i8Fw~~.html",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/DeepRobotics_logo.png"
     },
     "Spirit AI": {
         "english_name": "Spirit AI",
@@ -253,7 +253,7 @@
         "city": "Hangzhou",
         "official_website": "www.spirit-ai.com/en/",
         "career_page": "www.spirit-ai.com/en/career",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/SpiritAI_logo.png"
     },
     "Zhicheng AI": {
         "english_name": "Zhicheng AI",
@@ -261,7 +261,7 @@
         "city": "Hangzhou",
         "official_website": "www.zhicheng-robot.com",
         "career_page": "www.zhipin.com/gongsi/aa7863fb9480bfbb1Hdy0ti9ElA~.html",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/ZhichengAI_logo.png"
     },
     "LANXIN Robotics": {
         "english_name": "LANXIN Robotics",
@@ -269,7 +269,7 @@
         "city": "Hangzhou",
         "official_website": "www.lanxincn.com",
         "career_page": "lanxincn.zhiye.com",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/LANXINRobotics_logo.png"
     },
     "ELU.AI": {
         "english_name": "ELU.AI",
@@ -277,7 +277,7 @@
         "city": "Hangzhou",
         "official_website": "elu-ai.com",
         "career_page": "www.zhipin.com/gongsi/3cec6cd7eb91b05703Ry0tm5F1I~.html",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/ELUAI_logo.png"
     },
     "TLIBOT": {
         "english_name": "TLIBOT",
@@ -285,7 +285,7 @@
         "city": "Mianyang",
         "official_website": "www.tlibot.com",
         "career_page": "www.tlibot.com/about_us.html#c_static_001-17237877146690",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/TLIBOT_logo.png"
     },
     "Magic Lab": {
         "english_name": "Magic Lab",
@@ -293,7 +293,7 @@
         "city": "Wuxi",
         "official_website": "www.magiclab.top/en",
         "career_page": "magiclab.zhiye.com/social",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/MagicLab_logo.png"
     },
     "TIAN QING": {
         "english_name": "TIAN QING",
@@ -301,7 +301,7 @@
         "city": "Hangzhou",
         "official_website": "www.tqartisan.com",
         "career_page": "www.zhipin.com/gongsi/0422e7b23dc72bbe03By0tS5ElM~.html",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/TIANQING_logo.png"
     },
     "UniX AI": {
         "english_name": "UniX AI",
@@ -309,7 +309,7 @@
         "city": "Suzhou",
         "official_website": "www.unix-group.ai",
         "career_page": "www.unix-group.ai/join/199.html",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/UniXAI_logo.png"
     },
     "EIR": {
         "english_name": "EIR",
@@ -317,7 +317,7 @@
         "city": "Chengdu",
         "official_website": "www.eir.com.cn/#/",
         "career_page": "www.eir.com.cn/#/about?section=talent",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/EIR_logo.png"
     },
     "Estun Codroid": {
         "english_name": "Estun Codroid",
@@ -325,7 +325,7 @@
         "city": "Nanjing",
         "official_website": "www.codroid.ai/en/",
         "career_page": "www.zhipin.com/gongsi/job/dac7905d695149501HZ73Nu8EFE~.html",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/EstunCodroid_logo.png"
     },
     "ZERITH": {
         "english_name": "ZERITH",
@@ -333,7 +333,7 @@
         "city": "Hefei",
         "official_website": "www.zerith.com",
         "career_page": "www.zerith.com/join",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/ZERITH_logo.png"
     },
     "ZJ-Humanoid": {
         "english_name": "ZJ-Humanoid",
@@ -341,7 +341,7 @@
         "city": "Ningbo",
         "official_website": "www.zj-humanoid.com",
         "career_page": "www.zj-humanoid.com/join/#xmd",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/ZJ-Humanoid_logo.png"
     },
     "AtomRobot": {
         "english_name": "AtomRobot",
@@ -349,7 +349,7 @@
         "city": "Tianjing",
         "official_website": "www.atomrobot.ai",
         "career_page": "www.atomrobot.com/Recruiting",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/AtomRobot_logo.png"
     },
     "Rokae": {
         "english_name": "Rokae",
@@ -357,7 +357,7 @@
         "city": "Jining",
         "official_website": "www.rokae.com/en/?u=aHR0cDovL3d3dy5yb2thZS5jb20vY24v",
         "career_page": "www.rokae.com/cn/about/107/Careers.html",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/Rokae_logo.png"
     },
     "GLRoad": {
         "english_name": "GLRoad",
@@ -365,7 +365,7 @@
         "city": "Wuhan",
         "official_website": "www.glroad.com/HumanoidRobots/index.aspx",
         "career_page": "www.glroad.com/JoinUs/index.aspx",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/GLRoad_logo.png"
     },
     "HEC": {
         "english_name": "HEC",
@@ -373,7 +373,7 @@
         "city": "Wuhan",
         "official_website": "www.hec-al.com",
         "career_page": "hec.zhiye.com",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/HEC_logo.png"
     },
     "PNDBotics": {
         "english_name": "PNDBotics",
@@ -381,7 +381,7 @@
         "city": "Ningbo",
         "official_website": "pndbotics.com",
         "career_page": "www.zhipin.com/gongsi/a9f8ff5721f79c7a03V63dS7FlI~.html",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/PNDBotics_logo.png"
     },
     "CHAONENG ROBOT": {
         "english_name": "CHAONENG ROBOT",
@@ -389,7 +389,7 @@
         "city": "Changsha",
         "official_website": "www.hncnbot.com",
         "career_page": "www.zhipin.com/gongsi/3d168f69d3eb5f151nN43t66Eg~~.html",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/CHAONENGBOT_logo.png"
     },
     "YMBot": {
         "english_name": "YMBot",
