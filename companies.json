@@ -397,7 +397,7 @@
         "city": "Suzhou",
         "official_website": "www.ymbot.com/home",
         "career_page": "m.zhipin.com/companys/0ad0d9f955364aa503d83tS7GVc~.html",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/YMBot_logo.png"
     },
     "YoBotics": {
         "english_name": "YoBotics",
@@ -405,7 +405,7 @@
         "city": "Jinan",
         "official_website": "www.yobotics.cn/en/",
         "career_page": "www.yobotics.cn/about/zxns/",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/YoBotics_logo.png"
     },
     "Midea": {
         "english_name": "Midea",
@@ -413,7 +413,7 @@
         "city": "Foshan",
         "official_website": "www.midea.com.cn/en",
         "career_page": "www.midea.com.cn/en/careers",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/Midea_logo.png"
     },
     "GAC Group": {
         "english_name": "GAC Group",
@@ -421,7 +421,7 @@
         "city": "Guangzhou",
         "official_website": "www.gacgroup.com/en",
         "career_page": "career.gac-international.com/apply/gac-international/100006013/",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/GACGroup_logo.png"
     },
     "High Torque": {
         "english_name": "High Torque",
@@ -429,7 +429,7 @@
         "city": "Guangzhou",
         "official_website": "www.hightorquerobotics.com",
         "career_page": "www.hightorque.cn/category/jobs",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/HighTorque_logo.png"
     },
     "Li-Gong": {
         "english_name": "Li-Gong",
@@ -437,7 +437,7 @@
         "city": "Guangzhou",
         "official_website": "li-gong.com",
         "career_page": "m.zhipin.com/companys/32b0338623524aa21Xx53do~.html",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/Li-Gong_logo.png"
     },
     "Chery": {
         "english_name": "Chery",
@@ -445,7 +445,7 @@
         "city": "Wuhu",
         "official_website": "www.cheryinternational.com",
         "career_page": "chery.zhiye.com",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/Chery_logo.png"
     },
     "HFUN-TECH": {
         "english_name": "HFUN-TECH",
@@ -453,7 +453,7 @@
         "city": "Jinhua",
         "official_website": "www.hfun-tech.com",
         "career_page": "www.hfun-tech.com/col.jsp?id=102",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/HFUN-TECH_logo.png"
     },
     "YIJIAHE": {
         "english_name": "YIJIAHE",
@@ -461,7 +461,7 @@
         "city": "Nanjing",
         "official_website": "en.yijiahe.com",
         "career_page": "en.yijiahe.com/jobs",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/YIJIAHE_logo.png"
     },
     "EXRobots": {
         "english_name": "EXRobots",
@@ -469,7 +469,7 @@
         "city": "Dalian",
         "official_website": "www.exrobots.net",
         "career_page": "www.exrobots.net/?page_id=4253",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/EXRobots_logo.png"
     },
     "UBTECH": {
         "english_name": "UBTECH",
@@ -477,7 +477,7 @@
         "city": "Shenzhen",
         "official_website": "www.ubtrobot.com/en/",
         "career_page": "www.zhipin.com/companys/faf4dcd4bbcfac351nJ92tW6EVY~.html",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/UBTECH_logo.png"
     },
     "LIMX Dynamics": {
         "english_name": "LIMX Dynamics",
@@ -485,7 +485,7 @@
         "city": "Shenzhen",
         "official_website": "limxdynamics.com/en",
         "career_page": "limxdynamics.com/en/about#careers",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/LIMXDynamics_logo.png"
     },
     "LEJU Robot": {
         "english_name": "LEJU Robot",
@@ -493,7 +493,7 @@
         "city": "Shenzhen",
         "official_website": "www.lejurobot.cn/en",
         "career_page": "www.zhipin.com/gongsi/2c25c62189532e1b0XZ62926.html",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/LEJURobot_logo.png"
     },
     "EngineAI": {
         "english_name": "EngineAI",
@@ -501,7 +501,7 @@
         "city": "Shenzhen",
         "official_website": "en.engineai.com.cn",
         "career_page": "en.engineai.com.cn/career.html",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/EngineAI_logo.png"
     },
     "Pudu Tech": {
         "english_name": "Pudu Tech",
@@ -509,7 +509,7 @@
         "city": "Shenzhen",
         "official_website": "www.pudurobotics.com/en",
         "career_page": "pudutech.zhiye.com",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/PuduTech_logo.png"
     },
     "Digit": {
         "english_name": "Digit",
@@ -517,7 +517,7 @@
         "city": "Shenzhen",
         "official_website": "digit.com.cn/Default.html",
         "career_page": "digit.com.cn/Join.html",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/Digit_logo.png"
     },
     "Lumos Robotics": {
         "english_name": "Lumos Robotics",
@@ -525,7 +525,7 @@
         "city": "Shenzhen",
         "official_website": "www.lumosbot.tech/index.html",
         "career_page": "www.lumosbot.tech/career.html",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/LumosRobotics_logo.png"
     },
     "AI2Robotics": {
         "english_name": "AI2Robotics",
@@ -533,7 +533,7 @@
         "city": "Shenzhen",
         "official_website": "ai2robotics.com/en/",
         "career_page": "ai2robotics.com/en/joinus/",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/AI2Robotics_logo.png"
     },
     "Dexforce": {
         "english_name": "Dexforce",
@@ -541,7 +541,7 @@
         "city": "Shenzhen",
         "official_website": "www.dexforce.com",
         "career_page": "www.zhipin.com/gongsi/a29d4dc56c588cfa1XR52tu8E1U~.html",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/Dexforce_logo.png"
     },
     "DOBOT": {
         "english_name": "DOBOT",
@@ -549,7 +549,7 @@
         "city": "Shenzhen",
         "official_website": "www.dobot.cn",
         "career_page": "dobot.zhiye.com",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/DOBOT_logo.png"
     },
     "Astribot": {
         "english_name": "Astribot",
@@ -557,7 +557,7 @@
         "city": "Shenzhen",
         "official_website": "www.astribot.com/en",
         "career_page": "www.astribot.com/en/careers",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/Astribot_logo.png"
     },
     "Cyborg": {
         "english_name": "Cyborg",
@@ -565,7 +565,7 @@
         "city": "Shenzhen",
         "official_website": "www.cyb-org.cn",
         "career_page": "www.cyb-org.cn/index.php?id=contact#l1",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/Cyborg_logo.png"
     },
     "XPENG": {
         "english_name": "XPENG",
@@ -573,7 +573,7 @@
         "city": "Shenzhen",
         "official_website": "www.xpeng.com/?fromNav=1",
         "career_page": "xiaopeng.jobs.feishu.cn/index",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/XPENG_logo.png"
     },
     "Daimon Robotics": {
         "english_name": "Daimon Robotics",
@@ -581,7 +581,7 @@
         "city": "Shenzhen",
         "official_website": "www.dmrobot.com/en/",
         "career_page": "app.mokahr.com/social-recruitment/daimon-robotics/148582?locale=zh-CN#/jobs",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/DaimonRobotics_logo.png"
     },
     "Paxini": {
         "english_name": "Paxini",
