@@ -589,7 +589,7 @@
         "city": "Shenzhen",
         "official_website": "paxini.com",
         "career_page": "paxini.com/recruit",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/Paxini_logo.png"
     },
     "RoboSense": {
         "english_name": "RoboSense",
@@ -597,7 +597,7 @@
         "city": "Shenzhen",
         "official_website": "www.robosense.ai/en/index/index",
         "career_page": "app.mokahr.com/campus-recruitment/robosense/69887#/",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/RoboSense_logo.png"
     },
     "OneRobotics": {
         "english_name": "OneRobotics",
@@ -605,7 +605,7 @@
         "city": "Shenzhen",
         "official_website": "www.onero.cn",
         "career_page": "www.zhipin.com/gongsi/857e8f4db1f987811Hxy0ty_FA~~.html",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/OneRobotics_logo.png"
     },
     "Tencent Robotics X": {
         "english_name": "Tencent Robotics X",
@@ -613,7 +613,7 @@
         "city": "Shenzhen",
         "official_website": "roboticsx.tencent.com/#/",
         "career_page": "careers.tencent.com/en-us/home.html",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/TencentRoboticsX_logo.png"
     },
     "X Square Robot": {
         "english_name": "X Square Robot",
@@ -621,7 +621,7 @@
         "city": "Shenzhen",
         "official_website": "www.x2robot.com/en",
         "career_page": "www.x2robot.com/en/join",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/XSquareRobot_logo.png"
     },
     "PsiBot": {
         "english_name": "PsiBot",
@@ -637,7 +637,7 @@
         "city": "Suzhou",
         "official_website": "en.pl-universe.com",
         "career_page": "pl-universe.com/about/10#aboutFour",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/PL-Universe_logo.png"
     },
     "Rainbow Robotics": {
         "english_name": "Rainbow Robotics",
@@ -645,7 +645,7 @@
         "city": "Daejeon",
         "official_website": "https://www.rainbow-robotics.com/",
         "career_page": "https://www.rainbow-robotics.com/en_recruit",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/RainbowRobotics_logo.png"
     },
     "Holiday Robotics": {
         "english_name": "Holiday Robotics",
@@ -653,7 +653,7 @@
         "city": "Seoul",
         "official_website": "https://holiday-robotics.com/",
         "career_page": "https://holiday-robotics.com/contact",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/HolidayRobotics_logo.png"
     },
     "Robros": {
         "english_name": "Robros",
@@ -661,7 +661,7 @@
         "city": "Seoul",
         "official_website": "https://robros.co.kr/",
         "career_page": "https://robros.co.kr/Career",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/Robros_logo.png"
     },
     "AeiROBOT": {
         "english_name": "AeiROBOT",
@@ -669,7 +669,7 @@
         "city": "Seongnam",
         "official_website": "https://eng.arobot4all.com/",
         "career_page": "https://eng.arobot4all.com/",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/AeiROBOT_logo.png"
     },
     "Blue Robin": {
         "english_name": "Blue Robin",
@@ -677,7 +677,7 @@
         "city": "Seoul",
         "official_website": "https://www.bluerobin.co.kr/",
         "career_page": "https://www.bluerobin.co.kr/EN/include/pages/careers.php",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/BlueRobin_logo.png"
     },
     "Robotis": {
         "english_name": "Robotis",
@@ -685,7 +685,7 @@
         "city": "Seoul",
         "official_website": "https://ai.robotis.com/",
         "career_page": "www.robotis.com/sub/about_contact.php",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/Robotis_logo.png"
     },
     "LG Electronics": {
         "english_name": "LG Electronics",
@@ -693,7 +693,7 @@
         "city": "Seoul",
         "official_website": "https://www.lg.com/",
         "career_page": "https://recruit.lg.com/",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/LGElectronics_logo.png"
     },
     "Kawada Robotics": {
         "english_name": "Kawada Robotics Corporation",
@@ -701,7 +701,7 @@
         "city": "Tokyo",
         "official_website": "https://www.kawadarobot.co.jp/en/",
         "career_page": "https://kawaroborecruit.com/en/",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/KawadaRobotics_logo.png"
     },
     "Ory Lab": {
         "english_name": "Ory Lab Inc.",
@@ -709,7 +709,7 @@
         "city": "Tokyo",
         "official_website": "https://orylab.com/en/",
         "career_page": "https://orylab.com/en/#contact",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/OryLab_logo.png"
     },
     "RT Corporation": {
         "english_name": "RT Corporation",
@@ -717,7 +717,7 @@
         "city": "Tokyo",
         "official_website": "https://rt-net.jp/",
         "career_page": "https://rt-net.jp/company/recruit2025/",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/RTCorporation_logo.png"
     },
     "Tesla": {
         "english_name": "Tesla",
@@ -725,7 +725,7 @@
         "city": "Austin",
         "official_website": "https://www.tesla.com/",
         "career_page": "https://www.tesla.com/careers/search",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/Tesla_logo.png"
     },
     "Figure AI": {
         "english_name": "Figure AI",
@@ -733,7 +733,7 @@
         "city": "San Jose",
         "official_website": "https://www.figure.ai/",
         "career_page": "https://www.figure.ai/careers",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/FigureAI_logo.png"
     },
     "Agility Robotics": {
         "english_name": "Agility Robotics",
@@ -741,7 +741,7 @@
         "city": "Salem",
         "official_website": "https://www.agilityrobotics.com/",
         "career_page": "https://www.agilityrobotics.com/about/careers",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/AgilityRobotics_logo.png"
     },
     "Boston Dynamics": {
         "english_name": "Boston Dynamics",
@@ -749,7 +749,7 @@
         "city": "Waltham",
         "official_website": "https://bostondynamics.com/",
         "career_page": "https://bostondynamics.com/careers/",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/BostonDynamics_logo.png"
     },
     "1X Technologies": {
         "english_name": "1X Technologies",
@@ -757,7 +757,7 @@
         "city": "Palo Alto",
         "official_website": "https://www.1x.tech/",
         "career_page": "https://www.1x.tech/careers",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/1XTechnologies_logo.png"
     },
     "Apptronik": {
         "english_name": "Apptronik",
@@ -765,7 +765,7 @@
         "city": "Austin",
         "official_website": "https://apptronik.com/",
         "career_page": "https://apptronik.com/careers",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/Apptronik_logo.png"
     },
     "Persona AI": {
         "english_name": "Persona AI",
@@ -773,7 +773,7 @@
         "city": "Houston",
         "official_website": "https://persona.ai/",
         "career_page": "https://persona.ai/contact-us/",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/PersonaAI_logo.png"
     },
     "Weave Robotics": {
         "english_name": "Weave Robotics",
