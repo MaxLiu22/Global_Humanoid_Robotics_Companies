@@ -877,7 +877,7 @@
         "city": "Carate Brianza",
         "official_website": "https://www.oversonicrobotics.com/",
         "career_page": "https://www.oversonicrobotics.com/careers/",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/OversonicRobotics_logo.png"
     },
     "Engineered Arts": {
         "english_name": "Engineered Arts",
@@ -885,7 +885,7 @@
         "city": "Falmouth",
         "official_website": "https://engineeredarts.com/",
         "career_page": "https://engineeredarts.com/contact",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/EngineeredArts_logo.png"
     },
     "Humanoid": {
         "english_name": "Humanoid",
@@ -893,7 +893,7 @@
         "city": "London",
         "official_website": "https://thehumanoid.ai/",
         "career_page": "https://thehumanoid.ai/careers/",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/Humanoid_logo.png"
     },
     "TeknTrash Robotics": {
         "english_name": "TeknTrash Robotics",
@@ -901,7 +901,7 @@
         "city": "London",
         "official_website": "https://www.tekntrash.com/",
         "career_page": "https://www.tekntrash.com/contact.php",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/TeknTrashRobotics_logo.png"
     },
     "Sanctuary AI": {
         "english_name": "Sanctuary AI",
@@ -909,7 +909,7 @@
         "city": "Vancouver",
         "official_website": "https://www.sanctuary.ai/",
         "career_page": "https://www.sanctuary.ai/careers",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/SanctuaryAI_logo.png"
     },
     "Muks Robotics": {
         "english_name": "Muks Robotics",
@@ -917,7 +917,7 @@
         "city": "Pune",
         "official_website": "https://muksrobotics.com/",
         "career_page": "https://muksrobotics.com/career",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/MuksRobotics_logo.png"
     },
     "Techman Robot": {
         "english_name": "Techman Robot",
@@ -925,7 +925,7 @@
         "city": "Taoyuan City",
         "official_website": "https://www.tm-robot.com/en/",
         "career_page": "https://www.tm-robot.com/en/contact-us/",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/TechmanRobot_logo.png"
     },
     "AKINROBOTICS": {
         "english_name": "AKINROBOTICS",
@@ -933,7 +933,7 @@
         "city": "Konya",
         "official_website": "https://www.akinrobotics.com/en/",
         "career_page": "https://www.akinrobotics.com/en/online-job-application",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/AKINROBOTICS_logo.png"
     },
     "AIDOL": {
         "english_name": "AIDOL",
@@ -941,7 +941,7 @@
         "city": "Moscow",
         "official_website": "https://aidoltech.ru/",
         "career_page": "https://aidoltech.ru/contact",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/AIDOL_logo.png"
     },
     "Clone Robotics": {
         "english_name": "Clone Robotics",
@@ -949,7 +949,7 @@
         "city": "Wrocław",
         "official_website": "https://clonerobotics.com/",
         "career_page": "https://clonerobotics.com/company#open-roles",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/CloneRobotics_logo.png"
     },
     "MirrorMe Technology": {
         "english_name": "MirrorMe Technology",
@@ -957,6 +957,6 @@
         "city": "Shanghai",
         "official_website": "https://www.mirrormetech.com/",
         "career_page": "https://www.mirrormetech.com/en/contact.html",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/MirrorMeTechnology_logo.png"
     }
 }
