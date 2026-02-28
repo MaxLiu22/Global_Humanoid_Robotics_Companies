@@ -781,7 +781,7 @@
         "city": "San Francisco",
         "official_website": "https://www.weaverobotics.com/",
         "career_page": "https://app.dover.com/jobs/weaverobotics",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/WeaveRobotics_logo.png"
     },
     "Fauna Robotics": {
         "english_name": "Fauna Robotics",
@@ -789,7 +789,7 @@
         "city": "New York",
         "official_website": "https://faunarobotics.com/",
         "career_page": "https://faunarobotics.com/careers",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/FaunaRobotics_logo.png"
     },
     "Enchanted Tools": {
         "english_name": "Enchanted Tools",
@@ -797,7 +797,7 @@
         "city": "Paris",
         "official_website": "https://enchanted.tools/",
         "career_page": "https://enchanted.tools/jobs",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/EnchantedTools_logo.png"
     },
     "Pollen Robotics": {
         "english_name": "Pollen Robotics",
@@ -805,7 +805,7 @@
         "city": "Bordeaux",
         "official_website": "https://www.pollen-robotics.com/",
         "career_page": "https://www.pollen-robotics.com/contact-us/",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/PollenRobotics_logo.png"
     },
     "Wandercraft": {
         "english_name": "Wandercraft",
@@ -813,7 +813,7 @@
         "city": "Paris",
         "official_website": "https://en.wandercraft.eu/",
         "career_page": "https://wandercraft.welcomekit.co/",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/Wandercraft_logo.png"
     },
     "Agile Robots": {
         "english_name": "Agile Robots",
@@ -821,7 +821,7 @@
         "city": "Munich",
         "official_website": "https://www.agile-robots.com/en/",
         "career_page": "https://www.agile-robots.com/en/lets-connect/",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/AgileRobots_logo.png"
     },
     "Devanthro": {
         "english_name": "Devanthro",
@@ -829,7 +829,7 @@
         "city": "Munich",
         "official_website": "https://www.devanthro.com/",
         "career_page": "https://www.devanthro.com/career/",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/Devanthro_logo.png"
     },
     "Neura Robotics": {
         "english_name": "Neura Robotics",
@@ -837,7 +837,7 @@
         "city": "Metzingen",
         "official_website": "https://neura-robotics.com/",
         "career_page": "https://jobs.neura-robotics.com/",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/NeuraRobotics_logo.png"
     },
     "pi4 Robotics": {
         "english_name": "pi4 Robotics",
@@ -845,7 +845,7 @@
         "city": "Berlin",
         "official_website": "https://www.pi4.de/",
         "career_page": "https://www.pi4.de/careers.html",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/pi4Robotics_logo.png"
     },
     "Navel Robotics": {
         "english_name": "Navel Robotics",
@@ -853,7 +853,7 @@
         "city": "Munich",
         "official_website": "https://navelrobotics.com/",
         "career_page": "https://navelrobotics.com/en/jobs-2/",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/NavelRobotics_logo.png"
     },
     "PAL Robotics": {
         "english_name": "PAL Robotics",
@@ -861,7 +861,7 @@
         "city": "Barcelona",
         "official_website": "https://pal-robotics.com/",
         "career_page": "https://pal-robotics.com/who-we-are/careers/",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/PALRobotics_logo.png"
     },
     "Macco Robotics": {
         "english_name": "Macco Robotics",
@@ -869,7 +869,7 @@
         "city": "Seville",
         "official_website": "https://www.maccorobotics.com/",
         "career_page": "https://www.maccorobotics.com/en/contact/",
-        "company_logo_40x40": ""
+        "company_logo_40x40": "assets/0_logo/40x40/MaccoRobotics_logo.png"
     },
     "Oversonic Robotics": {
         "english_name": "Oversonic Robotics",
